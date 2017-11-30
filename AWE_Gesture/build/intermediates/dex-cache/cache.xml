@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_51b90a6354aaf25b3cf3bb717678ce49160398b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_44ab64d3be57a2046fc0fa044d6b8f891a087b12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_ef50823aa0a5c5f0a05ae70c5abeeb2fa6edd3dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_43a05114924fc9edc6b42fad9580bfda84ebb1a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_6f0082dd66868d29d2308b264766bfe61c1f8245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_ac05f2d536f7aaaa993a5c5f39741875b5e6d2ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_df83d69f2a8b2c7b296126142c674df551bfc7f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_0ec8844ad46f616d6a8884ee39173639b9e7ad13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_6bdaa3699071dac95bc49b8b1a55092662a69c11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_c7ef52d57bdace090d4872c3c91cb1253b6cb8e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d7b70b03d6ab907bafb9ff148b293470827f6f50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a103003c973911a49f8713da74d79a14e26782d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_941cb9b513fdcc7921a968e0494846d3e6c47092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="adf1a7297d29328881fc732fe3eecda5f0fd4863">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_56e8eb9667613295dd089c920b9515168505c167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_dd4b23d8b9e4ee3ca79273b1ea4be48f69bf747e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_32c4feadba5e0774933e8f3f568dffd52406b20c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_21c9fab6489218e705ee94dbfa42a14b576c7188.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b90a7fd666e5f25a084c64d791447d04d737805e">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/instant-run_5a390c7876c4cfbfba4330c8540f9c0ed5668103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Gesture/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_dc1f930b2e79bbdcdc9692243085b63dd90a5363.jar" />
+    </item>
+
+</items>

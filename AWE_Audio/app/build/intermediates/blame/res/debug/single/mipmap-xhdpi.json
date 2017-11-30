@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Audio/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Audio/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Audio/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Audio/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Event/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Event/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Event/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Event/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/old/AWE_Event/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/old/AWE_Event/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

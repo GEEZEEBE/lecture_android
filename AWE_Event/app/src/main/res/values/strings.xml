@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AWE_Event</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="android_onclick">Android onClick</string>
+    <string name="implements_view_onclicklistener">implements View.OnClickListener</string>
+    <string name="innerclass_setonclicklistener">AnonymousClassSetOnClickListenerActivity</string>
+    <string name="outter_class_setonclicklistener">LambdaSetOnClickListenerActivity</string>
+    <string name="listview">ListView</string>
+    <string name="web_view">Web View</string>
+    <string name="image_view">Image View</string>
+    <string name="video_view">Video View</string>
+    <string name="rest_api">Rest API</string>
+</resources>

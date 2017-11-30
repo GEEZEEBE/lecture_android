@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AWE_SharedPreferences</string>
+    <string name="reference_input">Reference Input</string>
+    <string name="reference_get">Reference Get</string>
+    <string name="shared_reference_activity">Shared Reference Activity</string>
+    <string name="references_values">References Values</string>
+</resources>

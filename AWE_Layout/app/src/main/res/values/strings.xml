@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AWE_Layout</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="linearlayout">LinearLayout</string>
+    <string name="relativelayout">RealtiveLayout</string>
+    <string name="tablelayout">TableLayout</string>
+    <string name="gridlayout">GridLayout</string>
+    <string name="framelayout">Framelayout</string>
+    <string name="dynamic_inflation">Dynamic Inflation</string>
+</resources>

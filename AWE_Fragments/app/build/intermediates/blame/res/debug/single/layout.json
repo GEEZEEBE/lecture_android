@@ -1,0 +1,526 @@
+[
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/fragment_xml_fragment_child.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/src/main/res/layout/fragment_xml_fragment_child.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/fragment_bundle_simple.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/src/main/res/layout/fragment_bundle_simple.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/fragment_xml_fragment_child.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/src/main/res/layout/fragment_xml_fragment_child.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/activity_xml_fragment_mother.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/src/main/res/layout/activity_xml_fragment_mother.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/fragment_bundle_simple.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/src/main/res/layout/fragment_bundle_simple.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/activity_bundle_fragment_mother_with.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/src/main/res/layout/activity_bundle_fragment_mother_with.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/activity_code_fragment_mother.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/src/main/res/layout/activity_code_fragment_mother.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/activity_bundle_fragment_mother_with.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/src/main/res/layout/activity_bundle_fragment_mother_with.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/activity_code_fragment_mother.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/src/main/res/layout/activity_code_fragment_mother.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/activity_xml_fragment_mother.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/src/main/res/layout/activity_xml_fragment_mother.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_up_container.xml"
+    }
+]

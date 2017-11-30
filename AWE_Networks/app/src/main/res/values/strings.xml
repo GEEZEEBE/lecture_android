@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AWE_Networks</string>
+    <string name="bluetooth_communicate_with_arduino">Bluetooth - Communicate With Arduino</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AWE_Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="oncreateview_fragment">onCreateView Fragment</string>
+    <string name="main_activity">Main Activity !</string>
+    <string name="xmlfragment">Xml Fragment</string>
+    <string name="bundle_fragment_with_activity">Bundle Fragment With Activity</string>
+    <string name="button">Button</string>
+    <string name="seek_bar_name">Seek Bar Name</string>
+    <string name="seekbar_button">SeekBar Button</string>
+    <string name="interaction_value">Interaction Value ?</string>
+    <string name="interaction_mother_activity">Interaction Mother Activity</string>
+    <string name="send_bundle_to_fragment">Send Bundle To Fragment</string>
+</resources>

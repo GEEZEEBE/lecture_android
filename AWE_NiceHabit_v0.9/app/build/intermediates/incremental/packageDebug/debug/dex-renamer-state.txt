@@ -1,0 +1,4 @@
+#Sat Nov 04 15:27:23 KST 2017
+base.0=/home/yojulab/Develop/workspaces/Lecture_android/AWE_NiceHabit_v0.9/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/yojulab/Develop/workspaces/Lecture_android/AWE_NiceHabit_v0.9/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_9176f1692f7cf4761c61e1e15340b332f4d3f0fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_2d9543a23b5bbdc2d7ac974b793ad9c812c8c276.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_3d7e01a851d03b116d33f6bb7f71c9618bcd8e61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_6f8598c113e1fdced4e5c4d7da09cbc897fa1c7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_340536e7db013578cd6b33aa1ab9f8c9ce453c8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_3be19a4076d59da9f4486f9a3ddf9ee87f2636e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_d14c7d147fedc14dc25ff98faeca7c2c7e2d6f13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_cd37d9a2a4053313748db237262d7c4c4deb8593.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_f6f3e491b3f28199533a430a015e0640424bb829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_f69b10dcb176db23783c32931caa4f61fd1b634c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4f59f49bcd16c4e8e24c3339fa6ac3f5416eb74e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_0a8990b01e1a308ac4bfdb41df7183f096286da9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b3c53ea1689c48ebf673c8d3f17256abe2b4ff3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_56eb9040ae534007fbe6f5e8f88d34d179074be0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_362243963f7eceb2027adb80bf97eefd2e468c68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_04705ff5c44e6717f3f9a2fadbc97e1295b44855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_210d396381b923453b7fca5027611acdcf711c2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/yojulab/Develop/workspaces/Lecture_android/AWE_Fragments/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_03ce5c0bfa72accd176a7526f54529b3ca44bb3b.jar" />
+    </item>
+
+</items>

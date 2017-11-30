@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Web View by Implicit"
+                android:id="@+id/webviewImplicitButton"
+                android:onClick="onClickContainer"
+                android:textAllCaps="false" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Web View Simple by Implicit"
+                android:id="@+id/webviewSimpleButton"
+                android:onClick="onClickContainer"
+                android:textAllCaps="false" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Web View by Explicit"
+                android:id="@+id/webviewExplicitButton"
+                android:onClick="onClickContainer"
+                android:textAllCaps="false" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ImageView From Gallery"
+                android:id="@+id/imageViewFromGalleryButton"
+                android:onClick="onClickContainer"
+                android:textAllCaps="false" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Image View"
+                android:id="@+id/imageviewButton"
+                android:onClick="onClickContainer"
+                android:textAllCaps="false" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Video View From Gallery"
+                android:id="@+id/videoViewFromGalleryButton"
+                android:onClick="onClickContainer"
+                android:textAllCaps="false" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Video View Simple"
+                android:id="@+id/videoviewSimpleButton"
+                android:onClick="onClickContainer"
+                android:textAllCaps="false" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Video View MediaController"
+                android:id="@+id/videoviewMediaControllerButton"
+                android:onClick="onClickContainer"
+                android:textAllCaps="false" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Video View Take Camera"
+                android:id="@+id/videoviewTakeCameraButton"
+                android:onClick="onClickContainer"
+                android:textAllCaps="false" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Audio Simple"
+                android:id="@+id/audioSimpleButton"
+                android:onClick="onClickContainer"
+                android:textAllCaps="false" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Audio MediaPlayer"
+                android:id="@+id/audioMediaPlayerButton"
+                android:onClick="onClickContainer"
+                android:textAllCaps="false" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ListView SingleColum"
+                android:id="@+id/listviewButton"
+                android:onClick="onClickContainer"
+                android:textAllCaps="false" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ListView MultiColumn"
+                android:id="@+id/listviewMultiColumnButton"
+                android:onClick="onClickContainer"
+                android:textAllCaps="false" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

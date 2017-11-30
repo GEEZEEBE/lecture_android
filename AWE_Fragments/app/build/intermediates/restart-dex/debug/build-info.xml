@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="50351746182889"
+    token="-28495124807655744"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="794" />
+    <task
+        name="instant-run-dex"
+        duration="141" />
+    <task
+        name="instant-run-transform"
+        duration="146" />
+    <task
+        name="verifier"
+        duration="78" />
+
+    <artifact
+        location="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="49871342748211"
+        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="50351746182889"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Fragments/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

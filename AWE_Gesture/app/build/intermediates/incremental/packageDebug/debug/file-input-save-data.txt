@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Nov 21 15:29:13 KST 2017
+0.baseType=DIRECTORY
+0.base=/home/yojulab/Develop/workspaces/Lecture_android/AWE_Gesture/app/build/intermediates/transforms/dexMerger/debug/19
+0.path=classes.dex
+0.set=DEX
+count=1

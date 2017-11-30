@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Activities/app/build/intermediates/res/merged/debug/menu/activity_navigation_drawer.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Activities/app/src/main/res/menu/activity_navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Activities/app/build/intermediates/res/merged/debug/menu/menu_scrolling.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Activities/app/src/main/res/menu/menu_scrolling.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Activities/app/build/intermediates/res/merged/debug/menu/menu_navigation.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Activities/app/src/main/res/menu/menu_navigation.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Activities/app/build/intermediates/res/merged/debug/menu/activity_navigation_drawer.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Activities/app/src/main/res/menu/activity_navigation_drawer.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Activities/app/build/intermediates/res/merged/debug/menu/menu_scrolling.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Activities/app/src/main/res/menu/menu_scrolling.xml"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Activities/app/build/intermediates/res/merged/debug/menu/menu_tab.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Activities/app/src/main/res/menu/menu_tab.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Activities/app/build/intermediates/res/merged/debug/menu/menu_navigation.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Activities/app/src/main/res/menu/menu_navigation.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Activities/app/build/intermediates/res/merged/debug/menu/menu_tab.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Activities/app/src/main/res/menu/menu_tab.xml"
+    }
+]

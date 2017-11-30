@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AWE_Widget</string>
+    <string name="textview">TextView</string>
+    <string name="button_tooglebutton"><![CDATA[Button&ToogleButton&ImageButton]]></string>
+    <string name="checkbox_checkedtextview"><![CDATA[CheckBox&CheckedTextView]]></string>
+    <string name="spinner">Spinner</string>
+    <string name="progressbar">ProgressBar</string>
+    <string name="seekbar">SeekBar</string>
+    <string name="ratingbar">RatingBar</string>
+    <string name="edittext">EditText</string>
+    <string name="quickcontactbadge">QuickContactBadge</string>
+    <string name="main">Main</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="buttontoast">ButtonToast</string>
+    <string name="plain_text">Plain Text</string>
+    <string name="password">Password</string>
+    <string name="password_numberic">Password(Numberic)</string>
+    <string name="e_mail">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="postal_address">Postal Address</string>
+    <string name="multiline_text">Multiline Text</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="number">Number</string>
+    <string name="number_signed">Number(Signed)</string>
+    <string name="number_decimal">Number(Decimal)</string>
+    <string name="button">Button</string>
+    <string name="checkbox01">CheckBox01</string>
+    <string name="checkbox02">CheckBox02</string>
+    <string name="radiobutton01">RadioButton01</string>
+    <string name="radiobutton02">RadioButton02</string>
+    <string name="radiogroupbutton01">RadioGroupButton01</string>
+    <string name="radiogroupbutton02">RadioGroupButton02</string>
+    <string name="switch_button">Switch</string>
+    <string name="radiobutton_groupradio"><![CDATA[RadioButton&GroupRadio]]></string>
+</resources>

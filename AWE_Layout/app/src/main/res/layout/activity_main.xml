@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:text="@string/main_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:textSize="24sp"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:textStyle="normal|bold"
+        android:layout_weight="0.50"
+        android:gravity="center" />
+
+    <Button
+        android:text="@string/linearlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonLinearlayout"
+        android:textAllCaps="false"
+        android:onClick="onClickLinearLayout" />
+
+    <Button
+        android:text="@string/relativelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickLayout"
+        android:id="@+id/buttonRelativelayout"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="@string/tablelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickLayout"
+        android:id="@+id/buttonTablelayout"
+        android:textAllCaps="false" />
+
+    <Button
+        android:text="@string/gridlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonGridlayout"
+        android:textAllCaps="false"
+        android:onClick="onClickLayout" />
+
+    <Button
+        android:text="@string/framelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickLayout"
+        android:id="@+id/buttonFramelayout" />
+
+    <Button
+        android:text="@string/dynamic_inflation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonDynamicInflation"
+        android:onClick="onClickLayout"
+        android:textAllCaps="false" />
+
+</LinearLayout>

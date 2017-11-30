@@ -1,0 +1,4 @@
+#Sat Nov 04 09:10:56 KST 2017
+base.0=/home/yojulab/Develop/workspaces/Lecture_android/AWE_Activities/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/yojulab/Develop/workspaces/Lecture_android/AWE_Activities/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

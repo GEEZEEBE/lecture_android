@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.3.0_f9247bf9e673f2c4c477027610e3fd71b7cf8b8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.3.4_0d7bb23bd6aaacfe6774eaac688fcc78ac366adf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_7202b0bb53f993cc56b365dbbd0e137d8b90d6dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.3.0_60cc7e7b8517e85e8462a1245299dd92dd8005f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_45b545791b2128d2dc1179ed0d6f9b4c73fce814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_263ca778221cf940094e54ee459df45e4ccca946.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_1dae88f55f9eaea6aec2ac5abbe9b34d6e5f04b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_3c73e4d2f19b2a3e0e75f296020fa788a9981807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c50d22fa99ad13a9cab2c821f9467c5f06bc4624">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/pre-dexed/debug/instant-run_10f5f6aded42bb068aa6ab51340f3f1a3ebe9034.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.3.0_6c7d1d3a91cb87914d3f1b3431fadc66dae5bdba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6f0239d42c31269a4f522f1ad0348089c373c5fb">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_98f8a12a28e85197bfe8a272b8c399b85fb611ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ohsanghun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_NiceHabit_v0.9_/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_c1e513600c2def227a69f90f28a0e511073fda9b.jar" />
+    </item>
+
+</items>

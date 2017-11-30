@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.yojulab.containerlists">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- <uses-permission android:name="android.permission.CAMERA" /> -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> -->
+    <!-- <uses-permission android:name="android.permission.RECORD_AUDIO" /> -->
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ListViewSingleColumnActivity" />
+        <activity android:name=".ListViewMultiColumnActivity" />
+        <activity android:name=".WebViewExplicitActivity">
+
+            <!--
+            intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:scheme="http" />
+            </intent-filter
+            -->
+        </activity>
+        <activity android:name=".ImageViewActivity" />
+        <activity android:name=".VideoViewMediaControllerActivity" />
+        <activity android:name=".WebViewSimpleActivity" />
+        <activity android:name=".VideoViewSimpleActivity" />
+        <activity android:name=".VideoViewTakeCameraActivity" />
+        <activity
+            android:name=".ImageViewFromGalleryActivity"
+            android:hardwareAccelerated="false" />
+        <activity android:name=".VideoViewFromGalleryActivity" />
+        <activity android:name=".RecordingVoiceActivity"></activity>
+    </application>
+
+</manifest>

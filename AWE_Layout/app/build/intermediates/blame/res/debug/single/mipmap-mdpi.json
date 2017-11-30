@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/old/AWE_Layout/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/old/AWE_Layout/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Layout/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Layout/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Sat Nov 11 13:36:48 KST 2017
+base.0=/home/yojulab/Develop/workspaces/Lecture_android/AWE_Audio/app/build/intermediates/transforms/dex/release/0
+renamed.0=classes.dex
+file.0=/home/yojulab/Develop/workspaces/Lecture_android/AWE_Audio/app/build/intermediates/transforms/dex/release/0/classes.dex

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AWEOptionsMenu</string>
+    <string name="options_menu_normal">Options Menu Normal</string>
+    <string name="options_menu_intent">Options Menu Intent</string>
+    <string name="options_menu_nobar">Options Menu NoBar</string>
+    <string name="options_menu_xml">Options Menu XML</string>
+    <string name="red_string">Red</string>
+    <string name="green_string">Green</string>
+</resources>

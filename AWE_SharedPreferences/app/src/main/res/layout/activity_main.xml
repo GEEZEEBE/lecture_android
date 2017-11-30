@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:text="@string/shared_reference_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:textSize="24sp"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:textStyle="normal|bold"
+        android:layout_weight="0.50"
+        android:gravity="center" />
+
+    <Button
+        android:text="@string/reference_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/reference_input"
+        android:textAllCaps="false"
+        android:onClick="onClickReference" />
+
+    <Button
+        android:text="@string/reference_get"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickReference"
+        android:id="@+id/reference_get"
+        android:textAllCaps="false" />
+
+</LinearLayout>

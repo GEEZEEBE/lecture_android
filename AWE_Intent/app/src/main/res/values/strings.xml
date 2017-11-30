@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AWEIntent</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="textview">TextView</string>
+    <string name="bundleName">TextView</string>
+    <string name="bundlePosition">TextView</string>
+    <string name="resultValue">Name</string>
+    <string name="resultvaluehint">resultValue</string>
+    <string name="explicit_intent_simple">Explicit Intent(Simple)</string>
+    <string name="explicit_intent_request">Explicit Intent(Request)</string>
+    <string name="explicit_intent_response">Explicit Intent Response</string>
+    <string name="implicit_intent_web">Implicit Intent(Web)</string>
+    <string name="implicit_intent_cp_search">Implicit Intent C.P Search</string>
+    <string name="implicit_intent_cp_add">Implicit Intent C.P Add</string>
+    <string name="implicit_intent_cp_edit">Implicit Intent C.P Edit</string>
+    <string name="implicit_intent_cp_delete">Implicit Intent C.P Delete</string>
+    <string name="implicit_intent_tel_dial">Implicit Intent Tel Dial</string>
+    <string name="implicit_intent_tel_call">Implicit Intent Tel Call</string>
+    <string name="implicit_intent_sendEmail">implicitIntentSendEmail</string>
+    <string name="implicit_intent_web_search">implicitIntentWebSearch</string>
+    <string name="implicit_intent_contacts_contract">implicitIntentContactsContract</string>
+    <string name="implicit_intent_sendSMS">implicitIntentSendSMS</string>
+    <string name="implicit_intent_Geo">implicitIntentGeo</string>
+    <string name="implicit_intent_sendMSM">implicitIntentSendMSM</string>
+</resources>

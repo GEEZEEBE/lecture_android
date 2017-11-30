@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AWEContainers</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="title_activity_maps_simple">Map</string>
+    <string name="audioRecordStop">Button</string>
+    <string name="audioRecordStart">Button</string>
+    <string name="audioPlay">Button</string>
+</resources>

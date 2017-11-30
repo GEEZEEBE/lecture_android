@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.ohsanghun.awe_widget.MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/main"
+        android:textStyle="normal|bold"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:text="@string/button_tooglebutton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickWidget"
+                android:id="@+id/buttonWidget" />
+
+            <Button
+                android:text="@string/textview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickWidget"
+                android:id="@+id/textviewWidget"
+                android:textAllCaps="false" />
+
+            <Button
+                android:text="@string/checkbox_checkedtextview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickWidget"
+                android:id="@+id/checkboxWidget" />
+
+            <Button
+                android:text="@string/radiobutton_groupradio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickWidget"
+                android:id="@+id/radiobutton"
+                android:textAllCaps="false" />
+
+            <Button
+                android:text="@string/spinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickWidget"
+                android:id="@+id/spinnerWidget"
+                android:textAllCaps="false" />
+
+            <Button
+                android:text="@string/progressbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickWidget"
+                android:id="@+id/progressBarWidget"
+                android:textAllCaps="false" />
+
+            <Button
+                android:text="@string/switch_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickWidget"
+                android:id="@+id/switchWidget"
+                android:textAllCaps="false" />
+
+            <Button
+                android:text="@string/seekbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickWidget"
+                android:id="@+id/seekBarWidget"
+                android:textAllCaps="false" />
+
+            <Button
+                android:text="@string/ratingbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickWidget"
+                android:id="@+id/ratingBarWidget"
+                android:textAllCaps="false" />
+
+            <Button
+                android:text="@string/edittext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickWidget"
+                android:id="@+id/editTextWidget"
+                android:textAllCaps="false" />
+
+            <Button
+                android:text="@string/quickcontactbadge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickWidget"
+                android:id="@+id/quickContactBadgeWidget" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

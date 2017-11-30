@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Audio/app/build/intermediates/res/merged/debug/raw/thunder_rain.mp3",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Audio/app/src/main/res/raw/thunder_rain.mp3"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Audio/app/build/intermediates/res/merged/debug/raw/thunder_rain.mp3",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Audio/app/src/main/res/raw/thunder_rain.mp3"
+    }
+]

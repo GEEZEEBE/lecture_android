@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Sqllite/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/5650c5a0d8b903d306379d00f9d7e353/res/values-w480dp/values-w480dp.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "278,564",
+                        "endColumns": "61,71",
+                        "endOffsets": "335,631"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,71",
+                        "endOffsets": "112,184"
+                    }
+                }
+            ]
+        }
+    ]
+}

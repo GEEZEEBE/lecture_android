@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Activities/app/build/intermediates/res/merged/debug/layout-w900dp-v13/item_list.xml",
+        "source": "/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_Activities/app/src/main/res/layout-w900dp/item_list.xml"
+    },
+    {
+        "merged": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Activities/app/build/intermediates/res/merged/debug/layout-w900dp-v13/item_list.xml",
+        "source": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Activities/app/src/main/res/layout-w900dp/item_list.xml"
+    }
+]

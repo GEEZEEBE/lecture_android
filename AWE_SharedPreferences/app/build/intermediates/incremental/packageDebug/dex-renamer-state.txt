@@ -1,0 +1,7 @@
+#Wed Oct 26 10:53:22 KST 2016
+base.0=/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e73b1c7f83b1099bed841949d7968a2106dd3c5e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_13c6a3e4f360d608b38216ab6a78d88f363f5868/classes.dex
+base.1=/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_13c6a3e4f360d608b38216ab6a78d88f363f5868
+file.0=/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWE_SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e73b1c7f83b1099bed841949d7968a2106dd3c5e/classes.dex

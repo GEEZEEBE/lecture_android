@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AWE_Gesture</string>
+    <string name="touch_two_status">Touch Two Status</string>
+    <string name="touch_one_status">Touch One Status</string>
+    <string name="ontouch_event">OnTouch Event</string>
+    <string name="gesture_detector">Gesture Detector</string>
+    <string name="gesturedetector">GestureDetector</string>
+    <string name="gestureoverlayview">GestureOverlayView</string>
+    <string name="scalegesturedetector">Scale Gesture Detector</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="drag_and_drop_gesture">Drag And Drop Gesture</string>
+</resources>

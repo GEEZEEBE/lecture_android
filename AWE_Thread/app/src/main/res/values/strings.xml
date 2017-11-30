@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AWE_Thread</string>
+    <string name="main_activity">Main Activity!</string>
+    <string name="error_thread_activity">Error Thread Activity</string>
+    <string name="handler_thread_activity">Handler Thread Activity</string>
+    <string name="error_thread">Error Thread</string>
+    <string name="thread_value">thread value</string>
+    <string name="handler_thread">Handler Thread</string>
+    <string name="handler_thread_with_message_activity">Handler Thread With Message Activity</string>
+    <string name="handler_thread_with_message">Handler Thread With Message</string>
+    <string name="watch_timer_activity">Watch Timer Activity</string>
+    <string name="stop_watch_activity">Stop Watch Activity</string>
+    <string name="start_time">00:00:00</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+</resources>
