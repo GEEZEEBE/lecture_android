@@ -4,7 +4,7 @@
             "outputFile": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Sqllite/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/5650c5a0d8b903d306379d00f9d7e353/res/values-w600dp/values-w600dp.xml",
+                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/2a80eff16382c12fd0e98facd5e405ae/res/values-w600dp/values-w600dp.xml",
                     "from": {
                         "startLines": "4,5",
                         "startColumns": "4,4",

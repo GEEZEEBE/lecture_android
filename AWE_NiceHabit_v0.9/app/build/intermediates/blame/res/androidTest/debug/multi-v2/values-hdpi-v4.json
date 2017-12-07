@@ -4,7 +4,7 @@
             "outputFile": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_NiceHabit_v0.9/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/6b5cbe41d0fbcb5175a58b6770611d36/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/8aaad700d7c997b84224d9f78b53e412/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

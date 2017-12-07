@@ -4,7 +4,7 @@
             "outputFile": "/home/yojulab/Develop/workspaces/Lecture_android/AWEOptionsMenu/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/33c9ce5aaf94b3aff4b233350832d305/res/values-v17/values-v17.xml",
+                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a3559cb5b84c209db08224aa2bf9e687/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
