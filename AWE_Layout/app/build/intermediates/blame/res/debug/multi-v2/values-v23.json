@@ -4,7 +4,7 @@
             "outputFile": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Layout/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/33c9ce5aaf94b3aff4b233350832d305/res/values-v23/values-v23.xml",
+                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a3559cb5b84c209db08224aa2bf9e687/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/d73ccae16c534e2426a9a23f747347f2/res/values-v23/values-v23.xml",
+                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/cardview-v7-24.2.1.aar/e416a98b586b822a9c20dac067c8cf5c/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

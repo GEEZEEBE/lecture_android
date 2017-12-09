@@ -44,6 +44,10 @@ public class MainActivity extends AppCompatActivity {
                 text = "Click buttonGridlayout!";
                 cls = GridLayoutActivity.class;
                 break;
+            case R.id.buttonNavigationDrwawerlayout:
+                text = "Click buttonNavigationDrwawerlayout!";
+                cls = NavigationDrawerActivity.class;
+                break;
             case R.id.buttonFramelayout:
                 text = "Click buttonFramelayout!";
                 cls = FrameLayoutActivity.class;

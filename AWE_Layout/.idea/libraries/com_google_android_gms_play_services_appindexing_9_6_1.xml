@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="com.google.android.gms:play-services-appindexing-9.6.1">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.6.1.aar/d47eac4ff0c4f5b801666b0f0f86a603/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.6.1.aar/d47eac4ff0c4f5b801666b0f0f86a603/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.6.1.aar/e9b076632f34cbe622543aa5749a3cd8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.6.1.aar/e9b076632f34cbe622543aa5749a3cd8/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -50,6 +50,14 @@
         android:onClick="onClickLayout" />
 
     <Button
+        android:text="@string/navigationDrwawerlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonNavigationDrwawerlayout"
+        android:textAllCaps="false"
+        android:onClick="onClickLayout" />
+
+    <Button
         android:text="@string/framelayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

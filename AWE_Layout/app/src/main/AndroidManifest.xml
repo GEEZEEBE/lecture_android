@@ -27,8 +27,12 @@
             android:value="@integer/google_play_services_version" />
 
         <activity android:name=".TableLayoutActivity" />
-        <activity android:name=".FrameLayoutActivity"></activity>
+        <activity android:name=".FrameLayoutActivity" />
         <activity android:name=".DynamicInflationActivity" />
+        <activity
+            android:name=".NavigationDrawerActivity"
+            android:label="@string/title_activity_navigation_drawer"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

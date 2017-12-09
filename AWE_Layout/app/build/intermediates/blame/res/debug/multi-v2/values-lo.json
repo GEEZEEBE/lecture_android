@@ -4,24 +4,7 @@
             "outputFile": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Layout/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
             "map": [
                 {
-                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.6.1.aar/3ded7fb47642ceb3167822d54283eeb2/res/values-lo/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "343",
-                        "endColumns": "263",
-                        "endOffsets": "602"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1385",
-                        "endColumns": "263",
-                        "endOffsets": "1644"
-                    }
-                },
-                {
-                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/468a8e810c91c59582d672a1062c156d/res/values-lo/values.xml",
+                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/play-services-base-9.6.1.aar/fef8d4fbf8247069aa638634edf48659/res/values-lo/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "105,215,417,549,658,884,1113,1240,1649,1918,2041,2148,2345,2476,2706,2848,3039,3137,3236",
                         "endColumns": "109,201,131,108,225,228,126,144,268,122,106,196,130,229,141,190,97,98,113",
                         "endOffsets": "210,412,544,653,879,1108,1235,1380,1913,2036,2143,2340,2471,2701,2843,3034,3132,3231,3345"
+                    }
+                },
+                {
+                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.6.1.aar/a37dd4fa41ca410d74ec04327fda3b98/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "343",
+                        "endColumns": "263",
+                        "endOffsets": "602"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1385",
+                        "endColumns": "263",
+                        "endOffsets": "1644"
                     }
                 }
             ]

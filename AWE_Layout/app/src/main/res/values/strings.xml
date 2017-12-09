@@ -7,4 +7,11 @@
     <string name="gridlayout">GridLayout</string>
     <string name="framelayout">Framelayout</string>
     <string name="dynamic_inflation">Dynamic Inflation</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="navigationDrwawerlayout">Navigation Drwawer Layout</string>
 </resources>

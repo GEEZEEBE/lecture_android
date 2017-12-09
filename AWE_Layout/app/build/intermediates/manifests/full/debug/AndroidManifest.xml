@@ -46,6 +46,10 @@
         <activity android:name="com.example.ohsanghun.awe_layout.FrameLayoutActivity" />
         <activity android:name="com.example.ohsanghun.awe_layout.DynamicInflationActivity" />
         <activity
+            android:name="com.example.ohsanghun.awe_layout.NavigationDrawerActivity"
+            android:label="@string/title_activity_navigation_drawer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />

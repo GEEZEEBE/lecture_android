@@ -1,4 +1,4 @@
-#Wed Nov 15 11:15:55 KST 2017
+#Sat Dec 09 16:23:34 KST 2017
 base.0=/home/yojulab/Develop/workspaces/Lecture_android/AWE_Layout/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
 renamed.0=classes.dex
-file.0=/home/yojulab/Develop/workspaces/Lecture_android/AWE_Layout/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
