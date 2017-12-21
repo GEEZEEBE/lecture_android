@@ -41,7 +41,8 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
 
     public void removeItem(int position){
         this.arrayList.remove(position);
-        notifyDataSetChanged();
+        notifyItemRemoved(position);
+//        notifyDataSetChanged();
     }
 
     @Override

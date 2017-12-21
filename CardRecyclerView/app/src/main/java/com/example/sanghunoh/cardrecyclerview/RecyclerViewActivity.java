@@ -87,9 +87,14 @@ public class RecyclerViewActivity extends AppCompatActivity {
         hashMap.put("image", R.drawable.android_image_7);
         adapter.addItem(hashMap);
 
-        FloatingActionButton floatingActionButton = (FloatingActionButton)findViewById(R.id.addItemAction);
+        setFloatingActionButton();
 
-        floatingActionButton.setOnClickListener(new View.OnClickListener() {
+    }
+
+    private void setFloatingActionButton() {
+        FloatingActionButton addItemAction = (FloatingActionButton)findViewById(R.id.addItemAction);
+
+        addItemAction.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 HashMap<String,Object> hashMap = new HashMap<String,Object>();
@@ -97,8 +102,17 @@ public class RecyclerViewActivity extends AppCompatActivity {
                 hashMap.put("detail", "Item one details");
                 hashMap.put("image", R.drawable.android_image_1);
                 adapter.addItem(1,hashMap);
-                Intent intent = new Intent(v.getContext(), DetailEditActivity.class);
-                startActivityForResult(intent, 101);
+//                Intent intent = new Intent(v.getContext(), DetailEditActivity.class);
+//                startActivityForResult(intent, 101);
+            }
+        });
+
+        FloatingActionButton deleteItemAction = (FloatingActionButton)findViewById(R.id.deleteItemAction);
+
+        deleteItemAction.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                adapter.removeItem(1);
             }
         });
     }
