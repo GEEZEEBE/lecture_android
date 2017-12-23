@@ -1,11 +1,15 @@
 package com.example.ohsanghun.awe_networks_tmp;
 
+import android.content.Context;
+import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
+import com.example.ohsanghun.awe_networks.MainActivity;
 import com.example.ohsanghun.awe_networks.R;
 
 import org.json.JSONException;
@@ -41,7 +45,7 @@ public class RestAPIActivity extends AppCompatActivity {
                 break;
         }
         // 날씨를 읽어오는 API 호출
-        OpenWeatherAPITask task= new OpenWeatherAPITask();
+        OpenWeatherAPITask task= new OpenWeatherAPITask(view.getContext());
         try {
             Weather weather = task.execute(id,id).get();
 
@@ -80,6 +84,13 @@ class Weather {
 }
 
 class OpenWeatherAPITask extends AsyncTask<String, Void, Weather> {
+
+    private Context mContext;
+
+    public OpenWeatherAPITask (Context context){
+        this.mContext = context;
+    }
+
     @Override
     public Weather doInBackground(String... params) {
         OpenWeatherAPIClient client = new OpenWeatherAPIClient();
@@ -89,6 +100,16 @@ class OpenWeatherAPITask extends AsyncTask<String, Void, Weather> {
         Weather weather = client.getWeather(id);
 
         return weather;
+    }
+
+    @Override
+    protected void onPostExecute(Weather weather) {
+        if (weather != null) {
+            Log.d("AsyncTask", "onPostExecute");
+            Intent intent = new Intent(mContext, MainActivity.class);
+            mContext.startActivity(intent);
+        }
+        super.onPostExecute(weather);
     }
 }
 
