@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Widget/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Widget/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/33c9ce5aaf94b3aff4b233350832d305/res/values-night-v8/values-night-v8.xml",
+                    "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/9cbf88fdc1b50e49e357323be4e23820/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

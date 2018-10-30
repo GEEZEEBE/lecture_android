@@ -4,15 +4,8 @@
             "outputFile": "/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/9bf54d55577ec6258e930d4e1a33b28d/res/values-v18/values-v18.xml",
+                    "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0ba0e2bee6329ca503174ab21b97f8b6/res/values-v18/values-v18.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "276",
-                        "endColumns": "48",
-                        "endOffsets": "320"
-                    },
-                    "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",

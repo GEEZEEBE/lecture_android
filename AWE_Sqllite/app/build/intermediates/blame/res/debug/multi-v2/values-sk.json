@@ -4,20 +4,30 @@
             "outputFile": "/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml",
             "map": [
                 {
-                    "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/9bf54d55577ec6258e930d4e1a33b28d/res/values-sk/values-sk.xml",
+                    "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/814339cadef5b7270f0d927f4477cd50/res/values-sk/values-sk.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "276,383,491,614,714,825,911,1019,1137,1221,1326,1435,1534,1640,1751,1860,1984,2082",
-                        "endColumns": "106,107,122,99,110,85,107,117,83,104,108,98,105,110,108,123,97,100",
-                        "endOffsets": "378,486,609,709,820,906,1014,1132,1216,1321,1430,1529,1635,1746,1855,1979,2077,2178"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1972",
+                        "endColumns": "100",
+                        "endOffsets": "2068"
+                    }
+                },
+                {
+                    "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0ba0e2bee6329ca503174ab21b97f8b6/res/values-sk/values-sk.xml",
+                    "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,162,270,393,493,604,690,798,916,1000,1105,1214,1313,1419,1530,1639,1763,1861",
-                        "endColumns": "106,107,122,99,110,85,107,117,83,104,108,98,105,110,108,123,97,100",
-                        "endOffsets": "157,265,388,488,599,685,793,911,995,1100,1209,1308,1414,1525,1634,1758,1856,1957"
+                        "startOffsets": "105,212,312,423,509,617,735,816,897,981,1086,1195,1294,1400,1511,1620,1786,1884",
+                        "endColumns": "106,99,110,85,107,117,80,80,83,104,108,98,105,110,108,165,97,87",
+                        "endOffsets": "207,307,418,504,612,730,811,892,976,1081,1190,1289,1395,1506,1615,1781,1879,1967"
                     }
                 }
             ]

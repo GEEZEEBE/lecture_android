@@ -12,6 +12,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.idescout.sql.SqlScoutServer;
+
 public class MainActivity extends AppCompatActivity {
 
     MyDBOpenHelper dbHelper;
@@ -20,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        SqlScoutServer.create(this, getPackageName());
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 

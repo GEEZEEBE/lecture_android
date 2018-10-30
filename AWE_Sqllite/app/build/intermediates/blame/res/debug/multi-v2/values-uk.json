@@ -4,20 +4,30 @@
             "outputFile": "/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml",
             "map": [
                 {
-                    "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/9bf54d55577ec6258e930d4e1a33b28d/res/values-uk/values-uk.xml",
+                    "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0ba0e2bee6329ca503174ab21b97f8b6/res/values-uk/values-uk.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "276,386,494,617,719,825,911,1019,1137,1218,1324,1431,1529,1637,1743,1852,1976,2076",
-                        "endColumns": "109,107,122,101,105,85,107,117,80,105,106,97,107,105,108,123,99,100",
-                        "endOffsets": "381,489,612,714,820,906,1014,1132,1213,1319,1426,1524,1632,1738,1847,1971,2071,2172"
-                    },
-                    "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,165,273,396,498,604,690,798,916,997,1103,1210,1308,1416,1522,1631,1755,1855",
-                        "endColumns": "109,107,122,101,105,85,107,117,80,105,106,97,107,105,108,123,99,100",
-                        "endOffsets": "160,268,391,493,599,685,793,911,992,1098,1205,1303,1411,1517,1626,1750,1850,1951"
+                        "startOffsets": "105,215,317,423,509,617,735,814,894,975,1081,1188,1286,1394,1500,1609,1779,1879",
+                        "endColumns": "109,101,105,85,107,117,78,79,80,105,106,97,107,105,108,169,99,80",
+                        "endOffsets": "210,312,418,504,612,730,809,889,970,1076,1183,1281,1389,1495,1604,1774,1874,1955"
+                    }
+                },
+                {
+                    "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/814339cadef5b7270f0d927f4477cd50/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1960",
+                        "endColumns": "100",
+                        "endOffsets": "2056"
                     }
                 }
             ]
