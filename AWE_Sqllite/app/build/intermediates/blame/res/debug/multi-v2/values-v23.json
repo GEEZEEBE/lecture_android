@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Sqllite/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/2a80eff16382c12fd0e98facd5e405ae/res/values-v23/values-v23.xml",
+                    "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.0.aar/9bf54d55577ec6258e930d4e1a33b28d/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "4,7,8,9,15,23",
                         "startColumns": "4,4,4,4,4,4",
