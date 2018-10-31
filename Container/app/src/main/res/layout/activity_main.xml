@@ -20,6 +20,14 @@
             android:orientation="vertical" >
 
             <Button
+                android:id="@+id/buttonStoreFile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickContainer"
+                android:text="Store File"
+                android:textAllCaps="false" />
+
+            <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Web View by Implicit"

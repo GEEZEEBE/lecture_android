@@ -21,6 +21,9 @@ public class MainActivity extends AppCompatActivity {
     public void onClickContainer(View view) {
         Intent intent = null;
         switch (view.getId()) {
+            case R.id.buttonStoreFile:
+                intent = new Intent(getApplicationContext(), StoreFileActivity.class);
+                break;
             case R.id.listviewButton:
                 intent = new Intent(getApplicationContext(), ListViewSingleColumnActivity.class);
                 break;
