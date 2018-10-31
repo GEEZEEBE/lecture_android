@@ -1,4 +1,4 @@
-#Tue Oct 30 21:05:30 KST 2018
+#Wed Oct 31 23:57:42 KST 2018
 base.0=/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/transforms/dexMerger/debug/5
 path.0=classes.dex
 renamed.0=classes.dex

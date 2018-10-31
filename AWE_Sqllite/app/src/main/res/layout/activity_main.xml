@@ -1,53 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    android:layout_margin="10dp">
-
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:inputType="textPersonName"
-        android:text="@string/country"
-        android:ems="10"
-        android:id="@+id/country" />
-
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:inputType="textPersonName"
-        android:text="@string/city"
-        android:ems="10"
-        android:id="@+id/city" />
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ohsanghun.androidappwithoutevening.MainActivity">
 
     <Button
-        android:layout_width="fill_parent"
+        android:id="@+id/buttonSimpleDatabase"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/strInsert"
-        android:id="@+id/btnInsert"
-        />
+        android:layout_marginStart="1dp"
+        android:layout_marginLeft="1dp"
+        android:text="Simple Database"
+        android:textAllCaps="false"
+        app:layout_constraintBottom_toTopOf="@+id/buttonSimpleCursorAdapterWithDB"
+        app:layout_constraintStart_toStartOf="@+id/buttonSimpleCursorAdapterWithDB" />
+
     <Button
-        android:layout_width="fill_parent"
+        android:id="@+id/buttonSimpleCursorAdapterWithDB"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/str_read"
-        android:id="@+id/btnRead"
-        />
-    <Button
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/update"
-        android:id="@+id/btnUpdate"
-        />
-    <Button
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/delete"
-        android:id="@+id/btnDelete"
-        />
-    <TextView
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:id="@+id/edit"
-        android:textSize="24sp" />
-</LinearLayout>
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="64dp"
+        android:text="SimpleCursorAdapter With Database"
+        android:textAllCaps="false"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>
