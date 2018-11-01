@@ -716,6 +716,10 @@
         "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0ba0e2bee6329ca503174ab21b97f8b6/res/color-v23/abc_tint_default.xml"
     },
     {
+        "merged": "/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/res/merged/debug/layout_activity_relative_database.xml.flat",
+        "source": "/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/res/layout/activity_relative_database.xml"
+    },
+    {
         "merged": "/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0ba0e2bee6329ca503174ab21b97f8b6/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },

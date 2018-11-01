@@ -14,9 +14,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
 
         Button buttonSimpleDatabase = findViewById(R.id.buttonSimpleDatabase);
+        Button buttonRelativeDatabase = findViewById(R.id.buttonRelativeDatabase);
         Button buttonSimpleCursorAdapterWithDB = findViewById(R.id.buttonSimpleCursorAdapterWithDB);
 
         buttonSimpleDatabase.setOnClickListener(this);
+        buttonRelativeDatabase.setOnClickListener(this);
         buttonSimpleCursorAdapterWithDB.setOnClickListener(this);
     }
 
@@ -26,6 +28,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (view.getId()) {
             case R.id.buttonSimpleDatabase:
                 intent = new Intent(getApplicationContext(), SimpleDataBaseActivity.class);
+                break;
+            case R.id.buttonRelativeDatabase:
+                intent = new Intent(getApplicationContext(), RelativeDataBaseActivity.class);
                 break;
             case R.id.buttonSimpleCursorAdapterWithDB:
                 intent = new Intent(getApplicationContext(), SimpleCursorAdapterWithDBActivity.class);

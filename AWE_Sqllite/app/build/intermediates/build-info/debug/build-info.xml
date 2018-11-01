@@ -6,66 +6,66 @@
     density="420dpi"
     format="10"
     plugin-version="3.2.1"
-    timestamp="1540998352415"
+    timestamp="1541081554103"
     token="-6612512460290023969"
     verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="279" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="145" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="40" />
     <task
         name="verifier"
-        duration="0" />
+        duration="10" />
 
     <artifact
-        location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-        type="SPLIT" />
+        location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build
         build-mode="FULL"
-        timestamp="1540997783532"
+        timestamp="1541079460959"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
@@ -73,100 +73,20 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1540997856292"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1541081404878"
         verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
         <artifact
             location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="HOT_WARM"
-        timestamp="1540997928825"
+        timestamp="1541081554103"
         verifier="COMPATIBLE" >
         <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/builds/debug/1540997928825/classes.dex"
+            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/reload-dex/debug/classes.dex"
             type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1540997981793"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/builds/debug/1540997981793/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1540998024278"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/builds/debug/1540998024278/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1540998173927"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/builds/debug/1540998173927/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1540998234238"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/builds/debug/1540998234238/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1540998257382"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/builds/debug/1540998257382/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1540998352415"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-            type="SPLIT" />
     </build>
 
 </instant-run>

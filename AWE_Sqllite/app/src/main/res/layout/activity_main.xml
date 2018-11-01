@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.ohsanghun.androidappwithoutevening.MainActivity">
+    tools:context="com.example.ohsanghun.androidappwithoutevening.MainActivity"
+    tools:layout_editor_absoluteY="81dp">
 
     <Button
         android:id="@+id/buttonSimpleDatabase"
@@ -12,20 +13,29 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="1dp"
         android:layout_marginLeft="1dp"
+        android:layout_marginTop="16dp"
         android:text="Simple Database"
         android:textAllCaps="false"
-        app:layout_constraintBottom_toTopOf="@+id/buttonSimpleCursorAdapterWithDB"
-        app:layout_constraintStart_toStartOf="@+id/buttonSimpleCursorAdapterWithDB" />
+        app:layout_constraintStart_toStartOf="@+id/buttonRelativeDatabase"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/buttonSimpleCursorAdapterWithDB"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="5dp"
-        android:layout_marginLeft="5dp"
-        android:layout_marginTop="64dp"
         android:text="SimpleCursorAdapter With Database"
         android:textAllCaps="false"
+        app:layout_constraintStart_toStartOf="@+id/buttonRelativeDatabase"
+        app:layout_constraintTop_toBottomOf="@+id/buttonRelativeDatabase" />
+
+    <Button
+        android:id="@+id/buttonRelativeDatabase"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:text="Relative Database"
+        android:textAllCaps="false"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/buttonSimpleDatabase" />
 </android.support.constraint.ConstraintLayout>

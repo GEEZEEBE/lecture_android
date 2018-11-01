@@ -18,6 +18,8 @@
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.ohsanghun.androidappwithoutevening.SimpleDataBaseActivity" >
         </activity>
+        <activity android:name="com.example.ohsanghun.androidappwithoutevening.RelativeDataBaseActivity" >
+        </activity>
         <activity android:name="com.example.ohsanghun.androidappwithoutevening.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
