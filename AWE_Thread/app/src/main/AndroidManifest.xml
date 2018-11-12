@@ -20,6 +20,7 @@
         <activity android:name=".HandlerThreadWithMessageActivity" />
         <activity android:name=".WatchTimerActivity" />
         <activity android:name=".StopwatchActivity" />
+        <activity android:name=".ViewPostActivity"></activity>
     </application>
 
 </manifest>
