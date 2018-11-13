@@ -563,6 +563,7 @@ id button2
 id button3
 id button4
 id buttonPanel
+id buttonRun
 id cancel_action
 id chains
 id checkbox
@@ -590,6 +591,7 @@ id homeAsUp
 id icon
 id ifRoom
 id image
+id imageViewPost
 id info
 id line1
 id line3
@@ -605,6 +607,7 @@ id normal
 id packed
 id parent
 id parentPanel
+id progressBarPost
 id progress_circular
 id progress_horizontal
 id radio

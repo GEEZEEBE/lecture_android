@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/janevallette/Documents/Develop/lecture_android/AWE_Thread/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
-        "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/9cbf88fdc1b50e49e357323be4e23820/res/color-v23/abc_color_highlight_material.xml"
-    },
-    {
         "merged": "/Users/janevallette/Documents/Develop/lecture_android/AWE_Thread/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
         "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/9cbf88fdc1b50e49e357323be4e23820/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/janevallette/Documents/Develop/lecture_android/AWE_Thread/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
+        "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/9cbf88fdc1b50e49e357323be4e23820/res/color-v23/abc_color_highlight_material.xml"
     },
     {
         "merged": "/Users/janevallette/Documents/Develop/lecture_android/AWE_Thread/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
