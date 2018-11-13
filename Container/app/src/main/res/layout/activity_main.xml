@@ -54,22 +54,6 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="ImageView From Gallery"
-                android:id="@+id/imageViewFromGalleryButton"
-                android:onClick="onClickContainer"
-                android:textAllCaps="false" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Image View"
-                android:id="@+id/imageviewButton"
-                android:onClick="onClickContainer"
-                android:textAllCaps="false" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="Video View From Gallery"
                 android:id="@+id/videoViewFromGalleryButton"
                 android:onClick="onClickContainer"

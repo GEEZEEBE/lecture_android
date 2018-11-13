@@ -5,8 +5,10 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <!-- <uses-permission android:name="android.permission.CAMERA" /> -->
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
-        android:maxSdkVersion="18"/>
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+
     <!-- <uses-permission android:name="android.permission.RECORD_AUDIO" /> -->
     <application
         android:allowBackup="true"
@@ -33,7 +35,7 @@
             </intent-filter
             -->
         </activity>
-        <activity android:name=".ImageViewActivity" />
+        <activity android:name=".ImageViewTakeCameraActivity" />
         <activity android:name=".VideoViewMediaControllerActivity" />
         <activity android:name=".WebViewSimpleActivity" />
         <activity android:name=".VideoViewSimpleActivity" />
@@ -43,7 +45,8 @@
             android:hardwareAccelerated="false" />
         <activity android:name=".VideoViewFromGalleryActivity" />
         <activity android:name=".RecordingVoiceActivity" />
-        <activity android:name=".StoreFileActivity"></activity>
+        <activity android:name=".StoreFileActivity" />
+        <activity android:name=".ImageViewActivity"></activity>
     </application>
 
 </manifest>

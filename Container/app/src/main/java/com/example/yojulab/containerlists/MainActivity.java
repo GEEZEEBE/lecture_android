@@ -5,10 +5,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.Button;
 import android.widget.Toast;
-
-import com.example.yojulab.containerlists.R;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -38,12 +35,6 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.webviewImplicitButton:
                 intent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://blog.naver.com/otter35"));
-                break;
-            case R.id.imageViewFromGalleryButton:
-                intent = new Intent(getApplicationContext(), ImageViewFromGalleryActivity.class);
-                break;
-            case R.id.imageviewButton:
-                intent = new Intent(getApplicationContext(), ImageViewActivity.class);
                 break;
             case R.id.videoViewFromGalleryButton:
                 intent = new Intent(getApplicationContext(), VideoViewFromGalleryActivity.class);
