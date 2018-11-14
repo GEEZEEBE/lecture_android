@@ -28,6 +28,14 @@
         android:onClick="onClick" />
 
     <Button
+        android:id="@+id/buttonViewPost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="View.Post"
+        android:textSize="14sp" />
+
+    <Button
         android:text="@string/handler_thread_activity"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

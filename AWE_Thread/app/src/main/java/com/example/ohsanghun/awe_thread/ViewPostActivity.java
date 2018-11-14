@@ -5,6 +5,7 @@ import android.graphics.BitmapFactory;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 
@@ -29,6 +30,8 @@ public class ViewPostActivity extends AppCompatActivity implements View.OnClickL
 
         imageViewPost = (ImageView) findViewById(R.id.imageViewPost);
         progressBarPost = (ProgressBar) findViewById(R.id.progressBarPost);
+        Button buttonRun = (Button) findViewById(R.id.buttonRun);
+        buttonRun.setOnClickListener(this);
     }
 
     @Override
@@ -37,9 +40,10 @@ public class ViewPostActivity extends AppCompatActivity implements View.OnClickL
         new Thread(new Runnable() {
             @Override
             public void run() {
-//                final Bitmap bitmap = loadImageFromNetwork("http://");
+                String strUri = "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png";
+//                final Bitmap bitmap = loadImageFromNetwork();
                 try {
-                    URL url = new URL("");
+                    URL url = new URL(strUri);
                     HttpURLConnection httpURLConnection = (HttpURLConnection) url.openConnection();
                     httpURLConnection.connect();
                     InputStream inputStream = httpURLConnection.getInputStream();

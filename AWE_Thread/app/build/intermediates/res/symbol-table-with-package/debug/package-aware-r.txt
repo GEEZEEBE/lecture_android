@@ -564,6 +564,7 @@ id button3
 id button4
 id buttonPanel
 id buttonRun
+id buttonViewPost
 id cancel_action
 id chains
 id checkbox

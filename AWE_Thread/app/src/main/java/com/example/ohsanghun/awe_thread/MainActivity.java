@@ -21,6 +21,9 @@ public class MainActivity extends AppCompatActivity {
             case R.id.errorThreadActivity:
                 cls = ErrorThreadActivity.class;
                 break;
+            case R.id.buttonViewPost:
+                cls = ViewPostActivity.class;
+                break;
             case R.id.handlerThreadActivity:
                 cls = HandlerThreadActivity.class;
                 break;
