@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\EDU\\AndroidStudioProjects\\lecture_android\\AWE_Thread\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "/Users/janevallette/Documents/Develop/lecture_android/AWE_Thread/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\EDU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0a9150fee6c16030c309701ccb0ee921\\res\\values-land\\values-land.xml",
+                    "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0ba0e2bee6329ca503174ab21b97f8b6/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

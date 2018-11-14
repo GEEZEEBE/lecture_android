@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\EDU\\AndroidStudioProjects\\lecture_android\\AWE_Audio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "outputFile": "/Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\EDU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\b1abe3360c718fcac51362ef607c41b4\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f6b95eec308d2d50e096245dec7d067b/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

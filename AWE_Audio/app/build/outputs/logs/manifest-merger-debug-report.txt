@@ -1,171 +1,171 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:2:1-27:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b1abe3360c718fcac51362ef607c41b4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\55ff9f4b73648ded6ff5aed6afa186e4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f4fcb270c26969047005dc67358cf517\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9dbc935867feaa5ce6f0deb2b5495220\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\06ef13893add9fe1ae057d637ea6f7e2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\712824de2167576f66d07652e8d3870a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\29e9eefe95262f8d32b9d6b4e53de759\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9441c60a08cfbac7663dc9c07e0e6d1b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c28d73f58c151ee6e92c25c0dec592f9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d993b76a2aef3e8cd136828a24cc05eb\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\76256fc29ae9b825b7b97068d1a9db5b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ad3abfb6302c87531b988970e736d33f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bf80af4a8d2f9778d779e20780ed1b57\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0b11c67dbd17a8426829031b6a341fb5\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9483b2f9e5d749613b96c065cc9e469b\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\eea66c1c6088a70bb49029f3b9176c8f\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5ab8f147d81960943638463322b08169\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cb2a1ff2fd2475c2c5103d88e3d82dea\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a7efc0d971caea70d0a0dd6d203fe5bd\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f26f6111382c9152bb9d6e4c590ddef6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\cf91524afaa50889af1c4bcfbd2e8f1c\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\50a22e89815837f1437e9e454ef7c781\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\56f64b596b893993c697ad850ec3921e\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\066147085a5778e53573b4fd19b886d1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\276e2be250f5bb96e02f3e159597a9a1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a2c5f22ad37edb93412347f399b86b48\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f6b95eec308d2d50e096245dec7d067b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e6a3571d797d45bed994756421841350/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d969832821781eb18a4e92119a400665/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/32c3d92a4f6c7f7fae85c73d9ab5ac86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3b958b12084de34b847cff4b27fc9992/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f35952182b0f38af89c0dd62fba474de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7b5fd779ae4e5616258eb266c6d05a11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/b95041ea685430ca3edd00135920ff95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/da76d6bc1fde91f864cc20a87a94c9e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bdeac45094f78420d9a06101cc2252ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b0397498d9433717913e3d21d02f2540/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/829112a1fb8741ea2ac15997e72112c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/117e4e6a5162fd90d3806b89ddec7f83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e49ec6e14e940a64fd9ad57bd3bf236a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ecf460bb70999944fc711185be990f63/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21e511c4ee1ad55d07efa5d9b4a1bed1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bf978259b3e3a1eec641ebca11dc8365/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f2c7279bbed375054536c7e794bf2058/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ef1de79a2cafffd0dd8a52ec4a7c11d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/60300220692a48c0a76106ad20987dd7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/adb4c8f1a73b983f6074ee2f75691a78/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e55ae43b75d55baa0064755127ca325e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b3bd23079b1f1cdc92cb9a2d5741e10a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4b398029f3424b121da63ff88b3192a3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e1c13938a9a90146432dc465d9fe26b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/20c68bff54d245b319e356a412bdaa79/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:3:5-46
-		INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:2:1-27:12
-		INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:2:1-27:12
-		INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:5:5-80
+ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:5:5-80
 	android:name
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:5:22-78
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:5:22-78
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:6:5-71
+ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:6:5-71
 	android:name
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:6:22-68
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:6:22-68
 uses-permission#android.permission.MICROPHONE
-ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:7:5-68
+ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:7:5-68
 	android:name
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:7:22-66
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:7:22-66
 application
-ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:9:5-25:19
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9483b2f9e5d749613b96c065cc9e469b\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9483b2f9e5d749613b96c065cc9e469b\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\eea66c1c6088a70bb49029f3b9176c8f\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\eea66c1c6088a70bb49029f3b9176c8f\AndroidManifest.xml:22:5-23:19
+ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ecf460bb70999944fc711185be990f63/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ecf460bb70999944fc711185be990f63/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21e511c4ee1ad55d07efa5d9b4a1bed1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21e511c4ee1ad55d07efa5d9b4a1bed1/AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9483b2f9e5d749613b96c065cc9e469b\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ecf460bb70999944fc711185be990f63/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:12:9-41
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:12:9-41
 	android:icon
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:14:9-40
 activity#com.example.ohsanghun.awe_audio.MainActivity
-ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:15:9-21:20
+ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:15:19-47
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:15:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:19:27-74
 activity#com.example.ohsanghun.awe_audio.AudioMediaPlayerWithRunnableActivity
-ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:22:9-74
+ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:22:9-74
 	android:name
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:22:19-71
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:22:19-71
 activity#com.example.ohsanghun.awe_audio.AudioMediaPlayerActivity
-ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:23:9-62
+ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:23:9-62
 	android:name
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:23:19-59
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:23:19-59
 activity#com.example.ohsanghun.awe_audio.AudioSimpleActivity
-ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:24:9-57
+ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:24:9-57
 	android:name
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml:24:19-54
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml:24:19-54
 uses-sdk
-INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b1abe3360c718fcac51362ef607c41b4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\b1abe3360c718fcac51362ef607c41b4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\55ff9f4b73648ded6ff5aed6afa186e4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\55ff9f4b73648ded6ff5aed6afa186e4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f4fcb270c26969047005dc67358cf517\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f4fcb270c26969047005dc67358cf517\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9dbc935867feaa5ce6f0deb2b5495220\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\9dbc935867feaa5ce6f0deb2b5495220\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\06ef13893add9fe1ae057d637ea6f7e2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\06ef13893add9fe1ae057d637ea6f7e2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\712824de2167576f66d07652e8d3870a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\712824de2167576f66d07652e8d3870a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\29e9eefe95262f8d32b9d6b4e53de759\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\29e9eefe95262f8d32b9d6b4e53de759\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9441c60a08cfbac7663dc9c07e0e6d1b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9441c60a08cfbac7663dc9c07e0e6d1b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c28d73f58c151ee6e92c25c0dec592f9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c28d73f58c151ee6e92c25c0dec592f9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d993b76a2aef3e8cd136828a24cc05eb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d993b76a2aef3e8cd136828a24cc05eb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\76256fc29ae9b825b7b97068d1a9db5b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\76256fc29ae9b825b7b97068d1a9db5b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ad3abfb6302c87531b988970e736d33f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ad3abfb6302c87531b988970e736d33f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bf80af4a8d2f9778d779e20780ed1b57\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bf80af4a8d2f9778d779e20780ed1b57\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0b11c67dbd17a8426829031b6a341fb5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0b11c67dbd17a8426829031b6a341fb5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9483b2f9e5d749613b96c065cc9e469b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9483b2f9e5d749613b96c065cc9e469b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\eea66c1c6088a70bb49029f3b9176c8f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\eea66c1c6088a70bb49029f3b9176c8f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5ab8f147d81960943638463322b08169\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5ab8f147d81960943638463322b08169\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cb2a1ff2fd2475c2c5103d88e3d82dea\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cb2a1ff2fd2475c2c5103d88e3d82dea\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a7efc0d971caea70d0a0dd6d203fe5bd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a7efc0d971caea70d0a0dd6d203fe5bd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f26f6111382c9152bb9d6e4c590ddef6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f26f6111382c9152bb9d6e4c590ddef6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\cf91524afaa50889af1c4bcfbd2e8f1c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\cf91524afaa50889af1c4bcfbd2e8f1c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\50a22e89815837f1437e9e454ef7c781\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\50a22e89815837f1437e9e454ef7c781\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\56f64b596b893993c697ad850ec3921e\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\56f64b596b893993c697ad850ec3921e\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\066147085a5778e53573b4fd19b886d1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\066147085a5778e53573b4fd19b886d1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\276e2be250f5bb96e02f3e159597a9a1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\276e2be250f5bb96e02f3e159597a9a1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a2c5f22ad37edb93412347f399b86b48\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\EDU\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a2c5f22ad37edb93412347f399b86b48\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
+INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml
+INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f6b95eec308d2d50e096245dec7d067b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f6b95eec308d2d50e096245dec7d067b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e6a3571d797d45bed994756421841350/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e6a3571d797d45bed994756421841350/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d969832821781eb18a4e92119a400665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d969832821781eb18a4e92119a400665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/32c3d92a4f6c7f7fae85c73d9ab5ac86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/32c3d92a4f6c7f7fae85c73d9ab5ac86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3b958b12084de34b847cff4b27fc9992/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3b958b12084de34b847cff4b27fc9992/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f35952182b0f38af89c0dd62fba474de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f35952182b0f38af89c0dd62fba474de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7b5fd779ae4e5616258eb266c6d05a11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7b5fd779ae4e5616258eb266c6d05a11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/b95041ea685430ca3edd00135920ff95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/b95041ea685430ca3edd00135920ff95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/da76d6bc1fde91f864cc20a87a94c9e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/da76d6bc1fde91f864cc20a87a94c9e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bdeac45094f78420d9a06101cc2252ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bdeac45094f78420d9a06101cc2252ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b0397498d9433717913e3d21d02f2540/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b0397498d9433717913e3d21d02f2540/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/829112a1fb8741ea2ac15997e72112c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/829112a1fb8741ea2ac15997e72112c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/117e4e6a5162fd90d3806b89ddec7f83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/117e4e6a5162fd90d3806b89ddec7f83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e49ec6e14e940a64fd9ad57bd3bf236a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e49ec6e14e940a64fd9ad57bd3bf236a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ecf460bb70999944fc711185be990f63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ecf460bb70999944fc711185be990f63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21e511c4ee1ad55d07efa5d9b4a1bed1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/21e511c4ee1ad55d07efa5d9b4a1bed1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bf978259b3e3a1eec641ebca11dc8365/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bf978259b3e3a1eec641ebca11dc8365/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f2c7279bbed375054536c7e794bf2058/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f2c7279bbed375054536c7e794bf2058/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ef1de79a2cafffd0dd8a52ec4a7c11d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ef1de79a2cafffd0dd8a52ec4a7c11d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/60300220692a48c0a76106ad20987dd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/60300220692a48c0a76106ad20987dd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/adb4c8f1a73b983f6074ee2f75691a78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/adb4c8f1a73b983f6074ee2f75691a78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e55ae43b75d55baa0064755127ca325e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e55ae43b75d55baa0064755127ca325e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b3bd23079b1f1cdc92cb9a2d5741e10a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b3bd23079b1f1cdc92cb9a2d5741e10a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4b398029f3424b121da63ff88b3192a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4b398029f3424b121da63ff88b3192a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e1c13938a9a90146432dc465d9fe26b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e1c13938a9a90146432dc465d9fe26b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/20c68bff54d245b319e356a412bdaa79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/20c68bff54d245b319e356a412bdaa79/AndroidManifest.xml:20:5-44
+INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml
+INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\EDU\AndroidStudioProjects\lecture_android\AWE_Audio\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml
+		ADDED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/janevallette/Documents/Develop/lecture_android/AWE_Audio/app/src/main/AndroidManifest.xml

@@ -38,11 +38,11 @@ public class AudioSimpleActivity extends AppCompatActivity {
         stop.setEnabled(false);
         play.setEnabled(false);
 
-        int permission = ContextCompat.checkSelfPermission(this,
-                Manifest.permission.RECORD_AUDIO);
-        if (permission != PackageManager.PERMISSION_GRANTED) {
+        int permissionRecordAudio = ContextCompat.checkSelfPermission(this, Manifest.permission.RECORD_AUDIO);
+        int permissionWriteExternalStorage = ContextCompat.checkSelfPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE);
+        if (permissionRecordAudio != PackageManager.PERMISSION_GRANTED && permissionWriteExternalStorage != PackageManager.PERMISSION_GRANTED) {
             ActivityCompat.requestPermissions(this,
-                    new String[]{Manifest.permission.RECORD_AUDIO}, REQUEST_CODE);
+                    new String[]{Manifest.permission.RECORD_AUDIO, Manifest.permission.WRITE_EXTERNAL_STORAGE}, REQUEST_CODE);
         }
 
         myAudioRecorder = new MediaRecorder();

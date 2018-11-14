@@ -21,11 +21,17 @@
         <service
             android:name=".BackgroundMusicService"
             android:enabled="true"
-            android:exported="false"></service>
+            android:exported="false" />
         <service
             android:name=".MyService"
             android:enabled="true"
-            android:exported="true"></service>
+            android:exported="true" />
+
+        <activity
+            android:name=".BindServiceActivity"
+            android:label="@string/title_activity_bind_service"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".StartServiceActivity"></activity>
     </application>
 
 </manifest>
