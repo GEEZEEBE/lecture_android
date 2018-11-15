@@ -13,6 +13,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        View buttonSensorList = findViewById(R.id.buttonSensorList);
+        View buttonPedometer = findViewById(R.id.buttonPedometer);
+
+        buttonSensorList.setOnClickListener(this);
+        buttonPedometer.setOnClickListener(this);
     }
 
     @Override
