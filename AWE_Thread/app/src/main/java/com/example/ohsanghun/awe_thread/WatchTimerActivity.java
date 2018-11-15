@@ -37,13 +37,13 @@ public class WatchTimerActivity extends AppCompatActivity {
                 if (t == 1) {
                     butnstart.setText("Pause");
                     starttime = SystemClock.uptimeMillis();
-                    handler.postDelayed(updateTimer, 0);
+                    handler.postDelayed(runnable, 0);
                     t = 0;
                 } else {
                     butnstart.setText("Start");
                     time.setTextColor(Color.BLUE);
                     timeSwapBuff += timeInMilliseconds;
-                    handler.removeCallbacks(updateTimer);
+                    handler.removeCallbacks(runnable);
                     t = 1;
                 }}
         });
@@ -62,11 +62,25 @@ public class WatchTimerActivity extends AppCompatActivity {
                 mins = 0;
                 milliseconds = 0;
                 butnstart.setText("Start");
-                handler.removeCallbacks(updateTimer);
+                handler.removeCallbacks(runnable);
                 time.setText("00:00:00");
             }});
     }
 
+    public Runnable runnable = new Runnable() {
+        @Override
+        public void run() {
+            timeInMilliseconds = SystemClock.uptimeMillis() - starttime;
+            updatedtime = timeSwapBuff + timeInMilliseconds;
+            secs = (int) (updatedtime / 1000);
+            mins = secs / 60;
+            secs = secs % 60;
+            milliseconds = (int) (updatedtime % 1000);
+            time.setText("" + mins + ":" + String.format("%02d", secs) + ":"
+                    + String.format("%03d", milliseconds));
+            time.setTextColor(Color.RED);
+        }
+    };
     public Runnable updateTimer = new Runnable() {
         public void run() {
 //            while(true){

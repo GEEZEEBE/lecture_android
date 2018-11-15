@@ -115,6 +115,7 @@ public class StopwatchActivity extends AppCompatActivity {
     }
 
     public Runnable runnable = new Runnable() {
+        @Override
         public void run() {
             MillisecondTime = SystemClock.uptimeMillis() - StartTime;
             UpdateTime = TimeBuff + MillisecondTime;

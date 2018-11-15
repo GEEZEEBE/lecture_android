@@ -1,4 +1,1 @@
-#Wed Nov 14 21:36:02 KST 2018
-base.0=/Users/janevallette/Documents/Develop/lecture_android/AWE_Thread/app/build/intermediates/transforms/dexMerger/debug/3
-path.0=classes.dex
-renamed.0=classes.dex
+#Thu Nov 15 14:09:05 KST 2018
