@@ -11,18 +11,20 @@ import android.util.Log;
 import android.view.View;
 
 public class BindServiceActivity extends AppCompatActivity implements View.OnClickListener {
+    private Boolean mIsPlaying;
     private BackgroundMusicWithBindServiceService myServiceBinder;
+
     // 서비스와의 연결 콜백
     private ServiceConnection myConnection = new ServiceConnection() {
 
         public void onServiceConnected(ComponentName className, IBinder binder) {
             myServiceBinder = ((BackgroundMusicWithBindServiceService.MyBinder) binder).getService();
-            Log.d("ServiceConnection","connected");
+            Log.e("ServiceConnection","connected");
 //            updateButtonEnabled();
         }
 
         public void onServiceDisconnected(ComponentName className) {
-            Log.d("ServiceConnection", "disconnected");
+            Log.e("ServiceConnection", "disconnected");
             myServiceBinder = null;
         }
     };
@@ -37,16 +39,7 @@ public class BindServiceActivity extends AppCompatActivity implements View.OnCli
 
         btn_play.setOnClickListener(this);
         btn_stop.setOnClickListener(this);
-
-        Intent intent = new Intent(this, BackgroundMusicWithBindServiceService.class);
-        bindService(intent, myConnection, Context.BIND_AUTO_CREATE);
     }
-
-//    public void doBindService() {
-//        Intent intent = null;
-//        intent = new Intent(this, BackgroundMusicWithBindServiceService.class);
-//        bindService(intent, myConnection, Context.BIND_AUTO_CREATE);
-//    }
 
     @Override
     public void onClick(View view) {
@@ -68,4 +61,45 @@ public class BindServiceActivity extends AppCompatActivity implements View.OnCli
 //        intent = new Intent(this, cls);
 //        startActivity(intent);
     }
+
+    private void doBindService() {
+        Intent intent = new Intent(this, BackgroundMusicWithBindServiceService.class);
+        bindService(intent, myConnection, Context.BIND_AUTO_CREATE);
+    }
+
+    private void doUnBindService() {
+        if (myServiceBinder != null) {
+            mIsPlaying = myServiceBinder.isPlaying();
+            unbindService(myConnection);
+//            myServiceBinder = null;
+        }
+    }
+
+    private void doReBindService() {
+        if (myServiceBinder != null) {
+            mIsPlaying = myServiceBinder.isPlaying();
+            unbindService(myConnection);
+//            myServiceBinder = null;
+        }
+    }
+
+    @Override
+    protected void onResume() {
+        Log.d("activity", "onResume");
+        super.onResume();
+        if (myServiceBinder == null) {
+            // 서비스에 바인드
+            doBindService();
+//            mIsPlaying = myServiceBinder.isPlaying();
+        }
+//        startService(new Intent(getApplicationContext(), BackgroundMusicWithBindServiceService.class));
+    }
+
+    @Override
+    protected void onPause() {
+        Log.d("activity", "onPause");
+        super.onPause();
+        doUnBindService();
+    }
+
 }

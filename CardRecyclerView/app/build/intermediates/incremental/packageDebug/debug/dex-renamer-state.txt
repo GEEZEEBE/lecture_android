@@ -1,4 +1,4 @@
-#Thu Dec 21 15:16:38 KST 2017
-base.0=/home/yojulab/Develop/workspaces/Lecture_android/CardRecyclerView/app/build/intermediates/transforms/dexMerger/debug/0
+#Fri Nov 16 21:22:27 KST 2018
+base.0=/Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/CardRecyclerView/app/build/intermediates/transforms/dexMerger/debug/19
 path.0=classes.dex
 renamed.0=classes.dex

@@ -672,11 +672,11 @@ int id btnDelete 0x7f070022
 int id btnInsert 0x7f070023
 int id btnRead 0x7f070024
 int id btnUpdate 0x7f070025
-int id button3 0x7f070026
-int id buttonAddVisitedRecord 0x7f070027
-int id buttonPanel 0x7f070028
-int id buttonRelativeDatabase 0x7f070029
-int id buttonSearch 0x7f07002a
+int id buttonAddVisitedRecord 0x7f070026
+int id buttonPanel 0x7f070027
+int id buttonRelativeDatabase 0x7f070028
+int id buttonSearch 0x7f070029
+int id buttonSearchWithCountryNotJoin 0x7f07002a
 int id buttonSimpleCursorAdapterWithDB 0x7f07002b
 int id buttonSimpleDatabase 0x7f07002c
 int id center 0x7f07002d

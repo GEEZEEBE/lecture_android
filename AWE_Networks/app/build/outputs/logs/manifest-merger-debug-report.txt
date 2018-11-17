@@ -1,143 +1,143 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
-MERGED from [com.android.support:appcompat-v7:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a3559cb5b84c209db08224aa2bf9e687/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yojulab/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ad5528e7589933b2fb70db4b9ad159df/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-v4:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/d592cb52f731d5097867d54c77321361/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/4154b7931b214fc045a63b60844d483c/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/534389858b4be265b9e7c19633e0c2ea/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:support-fragment:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/55c8831c98d3d3faf267638b2c0931eb/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-media-compat:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/6fe880b0f9a893762a235cc3e3e991f0/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-utils:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/9b12a36b6dfb4fb610ce375081eab629/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-ui:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/3a73835287f5411b76e7d2fd98495d08/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-compat:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/070585c8a4334efeb38ed4fe0fa7f6fd/AndroidManifest.xml:17:1-27:12
-INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6b45236feada3d5344957227e2ce5767/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/23a37dc6fe48711fb9e6ef1e5ca97d92/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/a66f326fcd3292c9e74b7632e9ef2d06/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/eeac5b0949d3f627c77bfbf69a44efa2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/92fc3bad996122d074c88f4113dc3236/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/4860413986db9297e8cced7183eaed04/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/7b96c9744ff93a42d398efd36296a38b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/35806fbac8aa5e6695bd906bc9e92ad8/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/cdca680acb58996ca0d79a8309bbf0a1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/c39dc0eca2708b4dcfd2ee7461d8651a/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:3:5-49
-		INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
-		INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
-		INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
-		INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.BLUETOOTH
-ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:5:5-68
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:5:5-68
 	android:name
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:5:22-65
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:5:22-65
 uses-permission#android.permission.INTERNET
-ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:6:5-67
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:6:22-64
 application
-ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:8:5-26:19
-MERGED from [com.android.support:appcompat-v7:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a3559cb5b84c209db08224aa2bf9e687/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a3559cb5b84c209db08224aa2bf9e687/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yojulab/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ad5528e7589933b2fb70db4b9ad159df/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yojulab/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ad5528e7589933b2fb70db4b9ad159df/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-v4:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/d592cb52f731d5097867d54c77321361/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/d592cb52f731d5097867d54c77321361/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/4154b7931b214fc045a63b60844d483c/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/4154b7931b214fc045a63b60844d483c/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/534389858b4be265b9e7c19633e0c2ea/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/534389858b4be265b9e7c19633e0c2ea/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/55c8831c98d3d3faf267638b2c0931eb/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/55c8831c98d3d3faf267638b2c0931eb/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/6fe880b0f9a893762a235cc3e3e991f0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/6fe880b0f9a893762a235cc3e3e991f0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/9b12a36b6dfb4fb610ce375081eab629/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/9b12a36b6dfb4fb610ce375081eab629/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/3a73835287f5411b76e7d2fd98495d08/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/3a73835287f5411b76e7d2fd98495d08/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/070585c8a4334efeb38ed4fe0fa7f6fd/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/070585c8a4334efeb38ed4fe0fa7f6fd/AndroidManifest.xml:25:5-20
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6b45236feada3d5344957227e2ce5767/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6b45236feada3d5344957227e2ce5767/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/23a37dc6fe48711fb9e6ef1e5ca97d92/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/23a37dc6fe48711fb9e6ef1e5ca97d92/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/a66f326fcd3292c9e74b7632e9ef2d06/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/a66f326fcd3292c9e74b7632e9ef2d06/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/eeac5b0949d3f627c77bfbf69a44efa2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/eeac5b0949d3f627c77bfbf69a44efa2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/92fc3bad996122d074c88f4113dc3236/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/92fc3bad996122d074c88f4113dc3236/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/4860413986db9297e8cced7183eaed04/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/4860413986db9297e8cced7183eaed04/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/7b96c9744ff93a42d398efd36296a38b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/7b96c9744ff93a42d398efd36296a38b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/35806fbac8aa5e6695bd906bc9e92ad8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/35806fbac8aa5e6695bd906bc9e92ad8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/cdca680acb58996ca0d79a8309bbf0a1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/cdca680acb58996ca0d79a8309bbf0a1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/c39dc0eca2708b4dcfd2ee7461d8651a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/c39dc0eca2708b4dcfd2ee7461d8651a/AndroidManifest.xml:25:5-20
 	android:supportsRtl
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:11:9-41
 	android:icon
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:10:9-43
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:13:9-40
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:13:9-40
 activity#com.example.ohsanghun.awe_networks.MainActivity
-ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:14:9-20:20
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:14:19-47
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:14:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:18:27-74
 activity#com.example.ohsanghun.awe_networks.BluetoothCommunicateWithArduinoActivity
-ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:21:9-77
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:21:9-77
 	android:name
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:21:19-74
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:21:19-74
 activity#com.example.ohsanghun.awe_networks.GetBTListActivity
-ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:22:9-55
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:22:9-55
 	android:name
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:22:19-52
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:22:19-52
 activity#com.example.ohsanghun.awe_networks.RestAPIActivity
-ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:23:9-53
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:23:9-53
 	android:name
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:23:19-50
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:23:19-50
 activity#com.example.ohsanghun.awe_networks_tmp.RestAPIActivity
-ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:24:9-91
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:24:9-91
 	android:name
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:24:19-88
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:24:19-88
 activity#com.example.ohsanghun.awe_networks.ConnectBTActivity
-ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:25:9-55
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:25:9-55
 	android:name
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:25:19-52
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml:25:19-52
 uses-sdk
-INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
-INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a3559cb5b84c209db08224aa2bf9e687/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a3559cb5b84c209db08224aa2bf9e687/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yojulab/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ad5528e7589933b2fb70db4b9ad159df/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yojulab/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ad5528e7589933b2fb70db4b9ad159df/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/d592cb52f731d5097867d54c77321361/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/d592cb52f731d5097867d54c77321361/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/4154b7931b214fc045a63b60844d483c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/4154b7931b214fc045a63b60844d483c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/534389858b4be265b9e7c19633e0c2ea/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/534389858b4be265b9e7c19633e0c2ea/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-fragment:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/55c8831c98d3d3faf267638b2c0931eb/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/55c8831c98d3d3faf267638b2c0931eb/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/6fe880b0f9a893762a235cc3e3e991f0/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/6fe880b0f9a893762a235cc3e3e991f0/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/9b12a36b6dfb4fb610ce375081eab629/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/9b12a36b6dfb4fb610ce375081eab629/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/3a73835287f5411b76e7d2fd98495d08/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/3a73835287f5411b76e7d2fd98495d08/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/070585c8a4334efeb38ed4fe0fa7f6fd/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/070585c8a4334efeb38ed4fe0fa7f6fd/AndroidManifest.xml:21:5-23:58
-INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
-INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6b45236feada3d5344957227e2ce5767/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6b45236feada3d5344957227e2ce5767/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/23a37dc6fe48711fb9e6ef1e5ca97d92/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/23a37dc6fe48711fb9e6ef1e5ca97d92/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/a66f326fcd3292c9e74b7632e9ef2d06/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/a66f326fcd3292c9e74b7632e9ef2d06/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/eeac5b0949d3f627c77bfbf69a44efa2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/eeac5b0949d3f627c77bfbf69a44efa2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/92fc3bad996122d074c88f4113dc3236/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/92fc3bad996122d074c88f4113dc3236/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/4860413986db9297e8cced7183eaed04/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/4860413986db9297e8cced7183eaed04/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/7b96c9744ff93a42d398efd36296a38b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/7b96c9744ff93a42d398efd36296a38b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/35806fbac8aa5e6695bd906bc9e92ad8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/35806fbac8aa5e6695bd906bc9e92ad8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/cdca680acb58996ca0d79a8309bbf0a1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/cdca680acb58996ca0d79a8309bbf0a1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/c39dc0eca2708b4dcfd2ee7461d8651a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/c39dc0eca2708b4dcfd2ee7461d8651a/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a3559cb5b84c209db08224aa2bf9e687/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6b45236feada3d5344957227e2ce5767/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
-		INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
-		ADDED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
-		INJECTED from /home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/src/main/AndroidManifest.xml

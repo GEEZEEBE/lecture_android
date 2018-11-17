@@ -1,6 +1,21 @@
 {
     "logs": [
         {
+            "outputFile": "/Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/CardRecyclerView/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d8f6647708f7467c14695281aa23a32d/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/home/yojulab/Develop/workspaces/Lecture_android/CardRecyclerView/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {

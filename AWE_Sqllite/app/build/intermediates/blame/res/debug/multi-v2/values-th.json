@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml",
+            "outputFile": "/Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml",
             "map": [
                 {
-                    "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/814339cadef5b7270f0d927f4477cd50/res/values-th/values-th.xml",
+                    "source": "/Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9493655d47651e8ae3655aa2ef03ed42/res/values-th/values-th.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0ba0e2bee6329ca503174ab21b97f8b6/res/values-th/values-th.xml",
+                    "source": "/Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/172b60869d2f09e2719616aec186d6f2/res/values-th/values-th.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

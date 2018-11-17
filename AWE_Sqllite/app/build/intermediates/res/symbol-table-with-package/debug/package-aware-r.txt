@@ -673,11 +673,11 @@ id btnDelete
 id btnInsert
 id btnRead
 id btnUpdate
-id button3
 id buttonAddVisitedRecord
 id buttonPanel
 id buttonRelativeDatabase
 id buttonSearch
+id buttonSearchWithCountryNotJoin
 id buttonSimpleCursorAdapterWithDB
 id buttonSimpleDatabase
 id center

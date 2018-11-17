@@ -21,6 +21,12 @@ public class BackgroundMusicWithBindServiceService extends Service {
         return new MyBinder();
     }
 
+    @Override
+    public void onRebind(Intent intent) {
+        super.onRebind(intent);
+
+    }
+
     public class MyBinder extends Binder {
         BackgroundMusicWithBindServiceService getService() {
             return BackgroundMusicWithBindServiceService.this;
@@ -68,4 +74,10 @@ public class BackgroundMusicWithBindServiceService extends Service {
         super.onCreate();
         Log.d(TAG, "onCreate");
     }
+
+    @Override
+    public int onStartCommand(Intent intent, int flags, int startId) {
+        return START_NOT_STICKY;
+    }
+
 }

@@ -1,113 +1,113 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0ba0e2bee6329ca503174ab21b97f8b6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/075c9948203d1194a1e3fb816cfdb656/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/59b2fcc23142e6bcbcb7d582b1d2cde5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/38eb8fb0f48bfc2e5dad6b266ec49908/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5363f254b777575196013e1a4fa62a4e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/150cfccdc8fa780c03edb609f9b5ddd1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/01360d589808b21d813e6c90e12d96e1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/814339cadef5b7270f0d927f4477cd50/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2ca2b28952ccdd9b20c5a546d609c71a/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5b26e65e47a23e4638b0e3a36a80ed7c/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/546ccbbb669a5a46e1897046d0c7160f/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7306cafa647a55e873b177eedf90c087/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/172b60869d2f09e2719616aec186d6f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/829b28b25ad0673650ef703524764e14/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/04c8af41326aed34945efc51aeabc185/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3e9723236a950932d30d6ef679f116a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/dbbacfb76f67712dd42ab1e9d8f6a1e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4bc47d307db7bd34e638793d22c9d96e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/dec7ef8255090be4087c23a604ec246c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9493655d47651e8ae3655aa2ef03ed42/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/026e93397ff3ab4383e391c7cdcedce3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1f2de6ad738b24f2962737ea1fb81d33/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c1480c435f7914439c9f312959bfd2ee/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/016f9a07b77bb44815fb50aa44fa34de/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:3:5-61
-		INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:3:5-61
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
-		INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
-		INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:5:5-23:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/075c9948203d1194a1e3fb816cfdb656/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/075c9948203d1194a1e3fb816cfdb656/AndroidManifest.xml:9:5-20
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/829b28b25ad0673650ef703524764e14/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/829b28b25ad0673650ef703524764e14/AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:10:9-40
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:10:9-40
 activity#com.example.ohsanghun.androidappwithoutevening.SimpleDataBaseActivity
-ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:11:9-12:20
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:11:9-12:20
 	android:name
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:11:19-57
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:11:19-57
 activity#com.example.ohsanghun.androidappwithoutevening.RelativeDataBaseActivity
-ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:13:9-14:20
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:13:9-14:20
 	android:name
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:13:19-59
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:13:19-59
 activity#com.example.ohsanghun.androidappwithoutevening.MainActivity
-ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:15:9-21:20
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:15:19-47
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:15:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:17:17-69
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:19:17-77
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:19:27-74
 activity#com.example.ohsanghun.androidappwithoutevening.SimpleCursorAdapterWithDBActivity
-ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:22:9-80
+ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:22:9-80
 	android:name
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:22:19-68
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml:22:19-68
 uses-sdk
-INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
-INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0ba0e2bee6329ca503174ab21b97f8b6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0ba0e2bee6329ca503174ab21b97f8b6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/075c9948203d1194a1e3fb816cfdb656/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/075c9948203d1194a1e3fb816cfdb656/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/59b2fcc23142e6bcbcb7d582b1d2cde5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/59b2fcc23142e6bcbcb7d582b1d2cde5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/38eb8fb0f48bfc2e5dad6b266ec49908/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/38eb8fb0f48bfc2e5dad6b266ec49908/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5363f254b777575196013e1a4fa62a4e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5363f254b777575196013e1a4fa62a4e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/150cfccdc8fa780c03edb609f9b5ddd1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/150cfccdc8fa780c03edb609f9b5ddd1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/01360d589808b21d813e6c90e12d96e1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/01360d589808b21d813e6c90e12d96e1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/814339cadef5b7270f0d927f4477cd50/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/814339cadef5b7270f0d927f4477cd50/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2ca2b28952ccdd9b20c5a546d609c71a/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2ca2b28952ccdd9b20c5a546d609c71a/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5b26e65e47a23e4638b0e3a36a80ed7c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5b26e65e47a23e4638b0e3a36a80ed7c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/546ccbbb669a5a46e1897046d0c7160f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/546ccbbb669a5a46e1897046d0c7160f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7306cafa647a55e873b177eedf90c087/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7306cafa647a55e873b177eedf90c087/AndroidManifest.xml:20:5-44
-INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
-INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/172b60869d2f09e2719616aec186d6f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/172b60869d2f09e2719616aec186d6f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/829b28b25ad0673650ef703524764e14/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/829b28b25ad0673650ef703524764e14/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/04c8af41326aed34945efc51aeabc185/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/04c8af41326aed34945efc51aeabc185/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3e9723236a950932d30d6ef679f116a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3e9723236a950932d30d6ef679f116a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/dbbacfb76f67712dd42ab1e9d8f6a1e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/dbbacfb76f67712dd42ab1e9d8f6a1e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4bc47d307db7bd34e638793d22c9d96e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4bc47d307db7bd34e638793d22c9d96e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/dec7ef8255090be4087c23a604ec246c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/dec7ef8255090be4087c23a604ec246c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9493655d47651e8ae3655aa2ef03ed42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9493655d47651e8ae3655aa2ef03ed42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/026e93397ff3ab4383e391c7cdcedce3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/026e93397ff3ab4383e391c7cdcedce3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1f2de6ad738b24f2962737ea1fb81d33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1f2de6ad738b24f2962737ea1fb81d33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c1480c435f7914439c9f312959bfd2ee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c1480c435f7914439c9f312959bfd2ee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/016f9a07b77bb44815fb50aa44fa34de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/016f9a07b77bb44815fb50aa44fa34de/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
-		ADDED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/janevallette/Documents/Develop/workspace-android/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Sqllite/app/src/main/AndroidManifest.xml

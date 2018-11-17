@@ -1,6 +1,21 @@
 {
     "logs": [
         {
+            "outputFile": "/Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWE_Networks/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6b45236feada3d5344957227e2ce5767/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/home/yojulab/Develop/workspaces/Lecture_android/AWE_Networks/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v18/values-v18.xml",
             "map": [
                 {

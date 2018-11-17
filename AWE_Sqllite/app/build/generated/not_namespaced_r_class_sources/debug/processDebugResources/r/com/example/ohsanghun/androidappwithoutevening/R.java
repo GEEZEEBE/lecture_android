@@ -2969,11 +2969,11 @@ public final class R {
     public static final int btnInsert=0x7f070023;
     public static final int btnRead=0x7f070024;
     public static final int btnUpdate=0x7f070025;
-    public static final int button3=0x7f070026;
-    public static final int buttonAddVisitedRecord=0x7f070027;
-    public static final int buttonPanel=0x7f070028;
-    public static final int buttonRelativeDatabase=0x7f070029;
-    public static final int buttonSearch=0x7f07002a;
+    public static final int buttonAddVisitedRecord=0x7f070026;
+    public static final int buttonPanel=0x7f070027;
+    public static final int buttonRelativeDatabase=0x7f070028;
+    public static final int buttonSearch=0x7f070029;
+    public static final int buttonSearchWithCountryNotJoin=0x7f07002a;
     public static final int buttonSimpleCursorAdapterWithDB=0x7f07002b;
     public static final int buttonSimpleDatabase=0x7f07002c;
     public static final int center=0x7f07002d;
