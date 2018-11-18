@@ -11,7 +11,7 @@ import android.widget.Button;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
-public class PedometerActivity extends AppCompatActivity implements SensorEventListener2, SeekBar.OnSeekBarChangeListener {
+public class PedometerActivity extends AppCompatActivity implements SensorEventListener, SeekBar.OnSeekBarChangeListener {
 
     private TextView textViewGx, textViewGy, textViewGz;
     private TextView textViewSteps;
@@ -36,33 +36,47 @@ public class PedometerActivity extends AppCompatActivity implements SensorEventL
 
         textViewSteps = findViewById(R.id.textViewSteps);
         seekBarSensitive = findViewById(R.id.seekBarSensitive);
-        seekBarSensitive.setProgress(10);
+        seekBarSensitive.setProgress(9);
         seekBarSensitive.setOnSeekBarChangeListener(this);
+        threshold = seekBarSensitive.getProgress();
 
         previousY = currentY = steps = 0;
+        acceleration = 0.0f;
 
         sensorManager = (SensorManager) getSystemService(SENSOR_SERVICE);
-//        sensorManager.registerListener(this, )
+        if(sensorManager != null){
+            sensorManager.registerListener(this, sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER),SensorManager.SENSOR_DELAY_NORMAL);
+        }
 
     }
 
     @Override
-    public void onFlushCompleted(Sensor sensor) {
+    public void onSensorChanged(SensorEvent event) {
+        float x = event.values[0];
+        float y = event.values[1];
+        float z = event.values[2];
+
+        currentY = y;
+        if(Math.abs(currentY - previousY) > threshold){
+            steps++;
+            textViewSteps.setText(String.valueOf(steps));
+        }
+
+        textViewGx.setText(String.valueOf(x));
+        textViewGy.setText(String.valueOf(y));
+        textViewGz.setText(String.valueOf(z));
+
+        previousY = y;
+    }
+
+    @Override
+    public void onAccuracyChanged(Sensor sensor, int accuracy) {
 
     }
 
     @Override
-    public void onSensorChanged(SensorEvent sensorEvent) {
-
-    }
-
-    @Override
-    public void onAccuracyChanged(Sensor sensor, int i) {
-
-    }
-
-    @Override
-    public void onProgressChanged(SeekBar seekBar, int i, boolean b) {
+    public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
+        threshold = seekBarSensitive.getProgress();
 
     }
 
