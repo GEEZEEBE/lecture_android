@@ -25,4 +25,13 @@
         android:textAllCaps="false"
         app:layout_constraintStart_toStartOf="@+id/buttonSensorList"
         app:layout_constraintTop_toBottomOf="@+id/buttonSensorList" />
+
+    <Button
+        android:id="@+id/buttonBluetooth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bluetooth"
+        android:textAllCaps="false"
+        app:layout_constraintStart_toStartOf="@+id/buttonPedometer"
+        app:layout_constraintTop_toBottomOf="@+id/buttonPedometer" />
 </android.support.constraint.ConstraintLayout>
