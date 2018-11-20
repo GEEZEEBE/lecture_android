@@ -17,10 +17,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         View buttonSensorList = findViewById(R.id.buttonSensorList);
         View buttonPedometer = findViewById(R.id.buttonPedometer);
         View buttonBluetooth = findViewById(R.id.buttonBluetooth);
+        View buttonLocationManager = findViewById(R.id.buttonLocationManager);
 
         buttonSensorList.setOnClickListener(this);
         buttonPedometer.setOnClickListener(this);
         buttonBluetooth.setOnClickListener(this);
+        buttonLocationManager.setOnClickListener(this);
     }
 
     @Override
@@ -39,6 +41,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case R.id.buttonBluetooth:
                 cls = BluetoothActivity.class;
+                break;
+            case R.id.buttonLocationManager:
+                cls = LocationManagerActivity.class;
                 break;
         }
         intent = new Intent(this, cls);
