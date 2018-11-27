@@ -1,5 +1,6 @@
 package com.advanced_android.musicplayersample;
 
+import android.app.NotificationManager;
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
@@ -12,13 +13,13 @@ import android.view.View;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
     private Boolean mIsPlaying;
-    private BackgroundMusicWithBindServiceService myServiceBinder;
+    private BackgroundMusicWithBindService myServiceBinder;
 
     // 서비스와의 연결 콜백
     private ServiceConnection myConnection = new ServiceConnection() {
 
         public void onServiceConnected(ComponentName className, IBinder binder) {
-            myServiceBinder = ((BackgroundMusicWithBindServiceService.MyBinder) binder).getService();
+            myServiceBinder = ((BackgroundMusicWithBindService.MyBinder) binder).getService();
             Log.e("ServiceConnection","connected");
 //            updateButtonEnabled();
         }
@@ -30,7 +31,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     };
 
     private void doBindService() {
-        Intent intent = new Intent(this, BackgroundMusicWithBindServiceService.class);
+        Intent intent = new Intent(this, BackgroundMusicWithBindService.class);
         bindService(intent, myConnection, Context.BIND_AUTO_CREATE);
     }
 
@@ -46,9 +47,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onResume() {
         Log.d("activity", "onResume");
         super.onResume();
+//        NotificationManager notificationManager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
+//        notificationManager.cancel(501);
+
         if (myServiceBinder == null) {
             // 서비스에 바인드
-            doBindService();
+//            doBindService();
         }
     }
 
@@ -56,8 +60,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onPause() {
         Log.d("activity", "onPause");
         super.onPause();
-        doUnBindService();
-        myServiceBinder.stopSelf();
+//        doUnBindService();
+//        myServiceBinder.stopSelf();
     }
 
     @Override
@@ -71,11 +75,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         buttonBindService.setOnClickListener(this);
         buttonStartService.setOnClickListener(this);
 
-        View btn_play = findViewById(R.id.btn_play);
-        View btn_stop = findViewById(R.id.btn_stop);
-
-        btn_play.setOnClickListener(this);
-        btn_stop.setOnClickListener(this);
+//        View btn_play = findViewById(R.id.btn_play);
+//        View btn_stop = findViewById(R.id.btn_stop);
+//
+//        btn_play.setOnClickListener(this);
+//        btn_stop.setOnClickListener(this);
 
     }
 

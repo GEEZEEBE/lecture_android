@@ -1,5 +1,7 @@
 package com.advanced_android.musicplayersample;
 
+import android.app.NotificationManager;
+import android.app.PendingIntent;
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
@@ -7,6 +9,7 @@ import android.content.ServiceConnection;
 import android.os.IBinder;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.NotificationCompat;
 import android.util.Log;
 import android.view.View;
 
@@ -98,9 +101,27 @@ public class StartServiceActivity extends AppCompatActivity {
             mIsPlaying = mServiceBinder.isPlaying();
             if (!mIsPlaying) {
                 mServiceBinder.stopSelf();
+            } else {
+                onNotification();
             }
             unbindService(myConnection);
             mServiceBinder = null;
         }
+    }
+
+    protected void onNotification(){
+        NotificationCompat.Builder builder = new NotificationCompat.Builder(this);
+        builder.setSmallIcon(R.drawable.musicplay);
+        builder.setContentTitle("My Music Play, Click Me!");
+        builder.setContentText("Hi, This is My Music Play");
+
+        Intent notificationIntent = new Intent(this, StartServiceActivity.class);
+        PendingIntent contentIntent = PendingIntent.getActivity(this, 0, notificationIntent,
+                PendingIntent.FLAG_UPDATE_CURRENT);
+        builder.setContentIntent(contentIntent);
+
+        // Add as notification
+        NotificationManager manager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
+        manager.notify(501, builder.build());
     }
 }

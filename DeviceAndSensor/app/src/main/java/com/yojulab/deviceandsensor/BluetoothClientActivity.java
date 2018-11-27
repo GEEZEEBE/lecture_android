@@ -102,8 +102,8 @@ public class BluetoothClientActivity extends AppCompatActivity implements View.O
             try {
                 if (bluetoothSocket == null || !isBtConnected) {
                     bluetoothAdapter = BluetoothAdapter.getDefaultAdapter();//get the mobile bluetooth device
-                    BluetoothDevice dispositivo = bluetoothAdapter.getRemoteDevice(address);//connects to the device's address and checks if it's available
-                    bluetoothSocket = dispositivo.createInsecureRfcommSocketToServiceRecord(myUUID);//create a RFCOMM (SPP) connection
+                    BluetoothDevice bluetoothDevice = bluetoothAdapter.getRemoteDevice(address);//connects to the device's address and checks if it's available
+                    bluetoothSocket = bluetoothDevice.createInsecureRfcommSocketToServiceRecord(myUUID);//create a RFCOMM (SPP) connection
                     BluetoothAdapter.getDefaultAdapter().cancelDiscovery();
                     bluetoothSocket.connect();//start connection
                 }
