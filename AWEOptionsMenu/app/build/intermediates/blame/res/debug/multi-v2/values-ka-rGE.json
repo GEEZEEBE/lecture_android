@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yojulab/Develop/workspaces/Lecture_android/AWEOptionsMenu/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml",
+            "outputFile": "/Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWEOptionsMenu/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml",
             "map": [
                 {
-                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a3559cb5b84c209db08224aa2bf9e687/res/values-ka-rGE/values-ka-rGE.xml",
+                    "source": "/Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/06e78b04fdf2d0ec774deded561c1572/res/values-ka-rGE/values-ka-rGE.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

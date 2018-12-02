@@ -1,10 +1,15 @@
 package com.example.ohsanghun.androidappwithoutevening_activitylifecycle;
 
+import android.app.ActionBar;
 import android.content.Intent;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.Menu;
 import android.view.View;
+import android.view.WindowManager;
 
 public class SecondActivity extends AppCompatActivity {
 
@@ -21,8 +26,18 @@ public class SecondActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_NAVIGATION, WindowManager.LayoutParams.FLAG_TRANSLUCENT_NAVIGATION);
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
         Log.d(TAG, ACTIVITY + " -------------------------------------------");
         Log.d(TAG, ACTIVITY + " onCreate()");
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        boolean result = super.onCreateOptionsMenu(menu);
+        menu.add(0, 20, 1, "Red");
+        menu.add(0, 22, 2, "Green");
+        return  result;
     }
 
     public void onNextActivity(View view){

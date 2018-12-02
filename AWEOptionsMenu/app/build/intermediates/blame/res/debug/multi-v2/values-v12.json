@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yojulab/Develop/workspaces/Lecture_android/AWEOptionsMenu/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml",
+            "outputFile": "/Users/sanghunoh/Documents/Develop/AndroidStudioProjects/lecture_android/AWEOptionsMenu/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml",
             "map": [
                 {
-                    "source": "/home/yojulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/a3559cb5b84c209db08224aa2bf9e687/res/values-v12/values-v12.xml",
+                    "source": "/Users/sanghunoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/06e78b04fdf2d0ec774deded561c1572/res/values-v12/values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",

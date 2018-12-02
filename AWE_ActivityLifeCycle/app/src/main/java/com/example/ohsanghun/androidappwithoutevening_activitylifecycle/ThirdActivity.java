@@ -1,12 +1,13 @@
 package com.example.ohsanghun.androidappwithoutevening_activitylifecycle;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 
-public class ThirdActivity extends AppCompatActivity {
+public class ThirdActivity extends AppCompatActivity implements View.OnClickListener{
 
     final String TAG = "States";
     final String ACTIVITY = "ThirdActivity:";
@@ -23,6 +24,9 @@ public class ThirdActivity extends AppCompatActivity {
         setContentView(R.layout.activity_third);
         Log.d(TAG, ACTIVITY + " -------------------------------------------");
         Log.d(TAG, ACTIVITY + " onCreate()");
+
+        View buttonFinishAffinity = findViewById(R.id.buttonFinishAffinity);
+        buttonFinishAffinity.setOnClickListener(this);
     }
 
     @Override
@@ -60,5 +64,14 @@ public class ThirdActivity extends AppCompatActivity {
         super.onDestroy();
         Log.d(TAG, ACTIVITY + " onDestroy()");
         Log.d(TAG, ACTIVITY + " -------------------------------------------");
+    }
+
+    @Override
+    public void onClick(View v) {
+        Intent intent =
+                new Intent(Intent.ACTION_DIAL,Uri.parse("tel:01023048735"));
+        startActivity(intent);
+
+        finishAffinity();
     }
 }

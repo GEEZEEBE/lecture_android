@@ -1,7 +1,0 @@
-#Fri Oct 28 16:31:13 KST 2016
-base.0=/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWEOptionsMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fb71fbaa22981e8bbfd3113a054db78dcec87d95
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWEOptionsMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_76a3239fe5c9c30c89cc716341cee2b213b088ab/classes.dex
-base.1=/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWEOptionsMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_76a3239fe5c9c30c89cc716341cee2b213b088ab
-file.0=/Users/ohsanghun/Documents/Programming/AndroidStudioProjects/AndroidAppWithoutEvening/AWEOptionsMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fb71fbaa22981e8bbfd3113a054db78dcec87d95/classes.dex
