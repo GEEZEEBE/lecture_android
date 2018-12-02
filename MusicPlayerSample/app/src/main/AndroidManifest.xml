@@ -23,7 +23,7 @@
             android:enabled="true"
             android:exported="false" />
         <service
-            android:name=".BackgroundMusicWithBindServiceService"
+            android:name=".BackgroundMusicWithBindService"
             android:enabled="true"
             android:exported="true" />
 

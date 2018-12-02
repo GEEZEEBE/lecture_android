@@ -12,13 +12,13 @@ import android.view.View;
 
 public class BindServiceActivity extends AppCompatActivity implements View.OnClickListener {
     private Boolean mIsPlaying;
-    private BackgroundMusicWithBindServiceService myServiceBinder;
+    private BackgroundMusicWithBindService myServiceBinder;
 
     // 서비스와의 연결 콜백
     private ServiceConnection myConnection = new ServiceConnection() {
 
         public void onServiceConnected(ComponentName className, IBinder binder) {
-            myServiceBinder = ((BackgroundMusicWithBindServiceService.MyBinder) binder).getService();
+            myServiceBinder = ((BackgroundMusicWithBindService.MyBinder) binder).getService();
             Log.e("ServiceConnection","connected");
 //            updateButtonEnabled();
         }
@@ -63,13 +63,14 @@ public class BindServiceActivity extends AppCompatActivity implements View.OnCli
     }
 
     private void doBindService() {
-        Intent intent = new Intent(this, BackgroundMusicWithBindServiceService.class);
+        Intent intent = new Intent(this, BackgroundMusicWithBindService.class);
         bindService(intent, myConnection, Context.BIND_AUTO_CREATE);
     }
 
     private void doUnBindService() {
         if (myServiceBinder != null) {
             mIsPlaying = myServiceBinder.isPlaying();
+            myServiceBinder.stop();
             unbindService(myConnection);
 //            myServiceBinder = null;
         }
@@ -79,7 +80,7 @@ public class BindServiceActivity extends AppCompatActivity implements View.OnCli
         if (myServiceBinder != null) {
             mIsPlaying = myServiceBinder.isPlaying();
             unbindService(myConnection);
-//            myServiceBinder = null;
+            myServiceBinder = null;
         }
     }
 
@@ -92,7 +93,7 @@ public class BindServiceActivity extends AppCompatActivity implements View.OnCli
             doBindService();
 //            mIsPlaying = myServiceBinder.isPlaying();
         }
-//        startService(new Intent(getApplicationContext(), BackgroundMusicWithBindServiceService.class));
+//        startService(new Intent(getApplicationContext(), BackgroundMusicWithBindService.class));
     }
 
     @Override
